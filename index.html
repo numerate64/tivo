@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TiVo Shows</title>
+    <meta name="description" content="Read-only public listing of current TiVo recordings." />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="page-header">
+        <p><a class="home-link" href="https://numerate64.github.io/project-pages/">Project Pages</a></p>
+        <h1>TiVo Shows</h1>
+        <p class="sub">A read-only view of the current recordings available on the TiVo.</p>
+      </header>
+
+      <section class="summary-strip" aria-label="TiVo summary">
+        <div>
+          <span>Shows</span>
+          <strong id="showCount">-</strong>
+        </div>
+        <div>
+          <span>Storage used</span>
+          <strong id="storageUsed">-</strong>
+        </div>
+        <div>
+          <span>Last updated</span>
+          <strong id="lastUpdated">-</strong>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Search and filters">
+        <label class="search-label" for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="Search show, episode, channel, description" />
+        <label class="toggle">
+          <input id="suggestionsToggle" type="checkbox" checked />
+          Include suggestions
+        </label>
+      </section>
+
+      <section class="table-card" aria-label="TiVo shows">
+        <div class="table-status">
+          <span id="statusText">Loading shows...</span>
+          <span id="resultCount"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Show</th>
+                <th>Episode</th>
+                <th>Channel</th>
+                <th>Rating</th>
+                <th>Recorded</th>
+                <th>Duration</th>
+                <th>Size</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
