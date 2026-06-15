@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-15T15:30:19.016Z",
-  "sourceUpdatedAt": "2026-06-15T15:30:18.944Z",
-  "sourceCacheUpdatedAt": "2026-06-15T15:30:18.944Z",
+  "updatedAt": "2026-06-15T16:00:21.255Z",
+  "sourceUpdatedAt": "2026-06-15T16:00:21.192Z",
+  "sourceCacheUpdatedAt": "2026-06-15T16:00:21.192Z",
   "source": "Local TiVo API",
-  "totalItems": 1660,
-  "loadedItems": 1660,
+  "totalItems": 1661,
+  "loadedItems": 1661,
   "cached": false,
   "storage": {
-    "usedBytes": 3788777717760,
+    "usedBytes": 3790675640320,
     "totalBytes": 6597069766656,
-    "availableBytes": 2808292048896,
+    "availableBytes": 2806394126336,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Spain vs. Cape Verde",
+      "description": "Spain vs. Cape Verde in a Group H opener in Atlanta, Ga. The island nation of Cape Verde makes its World Cup debut after overcoming the likes of Cameroon in African qualifying. Captained by former Ligue 1 and EPL forward Ryan Mendes, the Blue Sharks swim against an ultra-talented foe in reigning European champion Spain, featuring 18-year-old Lamine Yamal among its many playmaking options. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 671088640,
+      "captureDate": "2026-06-15T15:59:58.000Z"
+    },
     {
       "title": "Renovation Aloha",
       "episodeTitle": "Flooded With Problems",
@@ -603,15 +615,15 @@
       "captureDate": "2026-03-31T23:59:58.000Z"
     },
     {
-      "title": "Renovation Aloha",
-      "episodeTitle": "The Cockroach House",
-      "description": "When the Kalamas take on a roach-infested Manoa fixer, they think they've scored big, until demo reveals plumbing disasters, termite damage, and a budget-busting surprise. To save the flip, they bet on a secondary suite and a smart backyard reset. Copyright Rovi, Inc.",
-      "sourceChannel": "1492",
-      "sourceStation": "HGTVHD-E",
-      "rating": "TV-G",
+      "title": "NCIS",
+      "episodeTitle": "Fleeting",
+      "description": "Navy Week turns electric when a stolen squad car flips and reveals a sailor stabbed in the trunk. As D.C. spirals into chaos, the team chases a killer while carrying the weight of recent events. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3600000,
-      "sizeBytes": 1772093440,
+      "durationMs": 3592000,
+      "sizeBytes": 2998927360,
       "captureDate": "2026-03-31T23:59:58.000Z"
     },
     {
