@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-15T02:27:53.717Z",
-  "sourceUpdatedAt": "2026-06-15T02:27:53.647Z",
-  "sourceCacheUpdatedAt": "2026-06-15T02:27:53.647Z",
+  "updatedAt": "2026-06-15T02:28:47.670Z",
+  "sourceUpdatedAt": "2026-06-15T02:28:47.601Z",
+  "sourceCacheUpdatedAt": "2026-06-15T02:28:47.601Z",
   "source": "Local TiVo API",
-  "totalItems": 1671,
-  "loadedItems": 1671,
+  "totalItems": 1668,
+  "loadedItems": 1668,
   "cached": false,
   "storage": {
-    "usedBytes": 3798256844800,
+    "usedBytes": 3796715438080,
     "totalBytes": 6597069766656,
-    "availableBytes": 2798812921856,
+    "availableBytes": 2800354328576,
     "knownTotal": true
   },
   "shows": [
@@ -11655,18 +11655,6 @@
       "captureDate": "2022-12-31T20:59:58.000Z"
     },
     {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "What's for Breakfast?",
-      "description": "Great breakfast joints are visited. Included: a juice bar in New Orleans making homemade bagels; a New Mexico roadhouse that adds Philly flavors to Southwestern favorites; a family-run eatery in Pittsburgh where pancakes are made from scratch. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-31T18:29:58.000Z"
-    },
-    {
       "title": "Diners, Drive-Ins and Dives",
       "episodeTitle": "Big Breakfast",
       "description": "Spotlighting a New Jersey diner with more than 30 kinds of pancakes; a breakfast joint in Phoenix with homemade waffles; and an eatery with 60 different omelets in Kansas City, Mo. Copyright Rovi, Inc.",
@@ -11677,30 +11665,6 @@
       "durationMs": 1797000,
       "sizeBytes": 838860800,
       "captureDate": "2022-12-31T17:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Name That Kitchen",
-      "description": "Green chili and mile-high burgers are found in Fort Collins, Colo. Also: Guy visits a breakfast-lunch café in Falmouth, Mass., known for its pickle chips and savory scone sandwich; and travels to a family-owned restaurant for soft-shell crab and kale soup. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-31T06:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Indulgent Dishes",
-      "description": "Guy puts the spotlight on indulgent dishes during a trip to Charlotte, where he visits a seafood spot known for its gumbo and a spicy mahimahi specialty; and a mother-daughter team serve up lamb ragout and a decadent ice cream sandwich. Also: drunken chicken and a killer burger from a Korean-German combo in Los Angeles. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1799000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-31T03:29:58.000Z"
     },
     {
       "title": "Diners, Drive-Ins, and Dives",
