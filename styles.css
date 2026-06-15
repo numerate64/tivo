@@ -168,24 +168,11 @@ tbody tr:hover {
   background: rgba(29, 100, 216, 0.05);
 }
 
-.suggestion-row td {
-  background: #fff7bf;
-}
-
-.suggestion-row:hover td {
-  background: #ffef8a;
-}
-
 .group-row td {
   background: rgba(24, 33, 47, 0.06);
   color: var(--ink);
   font-weight: 800;
   border-top: 2px solid #c5d1dc;
-}
-
-.group-row.suggestion-row td {
-  background: #ffef8a;
-  border-top-color: #d6a100;
 }
 
 .group-row:hover {
