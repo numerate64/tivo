@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-15T02:28:47.670Z",
-  "sourceUpdatedAt": "2026-06-15T02:28:47.601Z",
-  "sourceCacheUpdatedAt": "2026-06-15T02:28:47.601Z",
+  "updatedAt": "2026-06-15T02:30:31.515Z",
+  "sourceUpdatedAt": "2026-06-15T02:30:31.451Z",
+  "sourceCacheUpdatedAt": "2026-06-15T02:30:31.451Z",
   "source": "Local TiVo API",
-  "totalItems": 1668,
-  "loadedItems": 1668,
+  "totalItems": 1665,
+  "loadedItems": 1665,
   "cached": false,
   "storage": {
-    "usedBytes": 3796715438080,
+    "usedBytes": 3794838487040,
     "totalBytes": 6597069766656,
-    "availableBytes": 2800354328576,
+    "availableBytes": 2802231279616,
     "knownTotal": true
   },
   "shows": [
@@ -11667,18 +11667,6 @@
       "captureDate": "2022-12-31T17:59:58.000Z"
     },
     {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Smoked, Grilled and Fried",
-      "description": "Meats that are grilled, smoked and fried are in the spotlight. Included: a Miami charcuterie known for its wild boar sausage and house-cured bacon. Also: a funky joint in Modesto, Cal., featuring monster tacos and a sweet and savory waffle; and an ex-NFL player who's slinging wings that score with sauce. Copyright Rovi, Inc.",
-      "sourceChannel": "854",
-      "sourceStation": "FOODHD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1797000,
-      "sizeBytes": 849346560,
-      "captureDate": "2022-12-31T02:59:58.000Z"
-    },
-    {
       "title": "Alma's Way",
       "episodeTitle": "Checkers Champ; World's Greatest",
       "description": "Alma helps Andre with his preparations for the checkers tournament; Alma and Rafia are on a race for the World's Greatest Artist title. Copyright Rovi, Inc.",
@@ -11689,30 +11677,6 @@
       "durationMs": 1801000,
       "sizeBytes": 503316480,
       "captureDate": "2022-12-30T22:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Not Your Typical Joints",
-      "description": "A lights-out spot serving up the righteous ramen in Saint Petersburg, Florida; and a funky joint frying up everything from wings to pig skins to chicken gizzards in Lansing, Michigan. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-30T22:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Mouthwatering Meat",
-      "description": "Brisket and burgers at a butcher shop-restaurant in Palm Beach, Fla.; Latin-style pork belly and Caribbean oxtails in Houston, Texas. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-30T21:59:58.000Z"
     },
     {
       "title": "Last Man Standing",
