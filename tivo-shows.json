@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-15T10:00:22.428Z",
-  "sourceUpdatedAt": "2026-06-15T10:00:22.340Z",
-  "sourceCacheUpdatedAt": "2026-06-15T10:00:22.340Z",
+  "updatedAt": "2026-06-15T10:30:20.125Z",
+  "sourceUpdatedAt": "2026-06-15T10:30:20.053Z",
+  "sourceCacheUpdatedAt": "2026-06-15T10:30:20.053Z",
   "source": "Local TiVo API",
-  "totalItems": 1661,
-  "loadedItems": 1661,
+  "totalItems": 1660,
+  "loadedItems": 1660,
   "cached": false,
   "storage": {
-    "usedBytes": 3791776645120,
+    "usedBytes": 3788777717760,
     "totalBytes": 6597069766656,
-    "availableBytes": 2805293121536,
+    "availableBytes": 2808292048896,
     "knownTotal": true
   },
   "shows": [
@@ -10933,18 +10933,6 @@
       "durationMs": 3597000,
       "sizeBytes": 1121976320,
       "captureDate": "2023-01-07T16:59:59.000Z"
-    },
-    {
-      "title": "Fire Country",
-      "episodeTitle": "No Good Deed",
-      "description": "An internal investigation is launched after a difficult rescue went awry and a life was lost. Copyright Rovi, Inc.",
-      "sourceChannel": "804",
-      "sourceStation": "WBZDT",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3598000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2023-01-07T01:59:59.000Z"
     },
     {
       "title": "Gold Rush",
