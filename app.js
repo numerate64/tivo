@@ -55,6 +55,11 @@ function formatDate(value) {
   }).format(date);
 }
 
+function captureTime(show) {
+  const time = new Date(show.captureDate || 0).getTime();
+  return Number.isNaN(time) ? 0 : time;
+}
+
 function normalize(value) {
   return String(value || '').toLowerCase();
 }
@@ -78,16 +83,67 @@ function filteredShows() {
     .filter(show => matchesSearch(show, query));
 }
 
+function groupedShows(sourceShows) {
+  const groups = new Map();
+  for (const show of sourceShows) {
+    const title = show.title || 'Untitled';
+    const key = normalize(title.trim()) || 'untitled';
+    if (!groups.has(key)) {
+      groups.set(key, {
+        title,
+        shows: [],
+        latestCaptureTime: 0,
+        durationMs: 0,
+        sizeBytes: 0
+      });
+    }
+
+    const group = groups.get(key);
+    group.shows.push(show);
+    group.latestCaptureTime = Math.max(group.latestCaptureTime, captureTime(show));
+    group.durationMs += Number(show.durationMs || 0);
+    group.sizeBytes += Number(show.sizeBytes || 0);
+  }
+
+  return [...groups.values()]
+    .map(group => ({
+      ...group,
+      shows: group.shows.slice().sort((a, b) => captureTime(b) - captureTime(a)
+        || String(a.episodeTitle || '').localeCompare(String(b.episodeTitle || '')))
+    }))
+    .sort((a, b) => b.latestCaptureTime - a.latestCaptureTime
+      || String(a.title || '').localeCompare(String(b.title || '')));
+}
+
 function render() {
   const visible = filteredShows();
-  resultCount.textContent = `${visible.length} shown`;
+  const groups = groupedShows(visible);
+  const groupLabel = groups.length === 1 ? 'show' : 'shows';
+  const recordingLabel = visible.length === 1 ? 'recording' : 'recordings';
+  resultCount.textContent = `${groups.length} ${groupLabel} · ${visible.length} ${recordingLabel}`;
 
   if (!visible.length) {
     rows.innerHTML = '<tr><td colspan="7" class="empty">No shows match that search.</td></tr>';
     return;
   }
 
-  rows.innerHTML = visible.map(show => {
+  rows.innerHTML = groups.map(group => {
+    const groupTitle = escapeHtml(group.title || 'Untitled');
+    const latest = group.latestCaptureTime ? formatDate(group.latestCaptureTime) : '-';
+    const count = group.shows.length === 1 ? '1 recording' : `${group.shows.length} recordings`;
+    const groupRow = `
+      <tr class="group-row">
+        <td colspan="4">
+          <span class="group-title">${groupTitle}</span>
+          <span class="group-meta">${count}</span>
+        </td>
+        <td>${escapeHtml(latest)}</td>
+        <td>${escapeHtml(formatDuration(group.durationMs))}</td>
+        <td>${escapeHtml(formatBytes(group.sizeBytes))}</td>
+      </tr>
+    `;
+
+    const showRows = group.shows.map(show => {
     const title = escapeHtml(show.title || 'Untitled');
     const episode = escapeHtml(show.episodeTitle || '-');
     const channel = escapeHtml([show.sourceChannel, show.sourceStation].filter(Boolean).join(' · ') || '-');
@@ -108,6 +164,9 @@ function render() {
         <td>${escapeHtml(formatBytes(show.sizeBytes))}</td>
       </tr>
     `;
+    }).join('');
+
+    return groupRow + showRows;
   }).join('');
 }
 
@@ -127,8 +186,9 @@ async function load() {
     if (!response.ok) throw new Error(`Snapshot failed (${response.status})`);
     snapshot = await response.json();
     shows = Array.isArray(snapshot.shows) ? snapshot.shows : [];
-    shows.sort((a, b) => String(a.title || '').localeCompare(String(b.title || ''))
-      || new Date(b.captureDate || 0) - new Date(a.captureDate || 0));
+    shows.sort((a, b) => captureTime(b) - captureTime(a)
+      || String(a.title || '').localeCompare(String(b.title || ''))
+      || String(a.episodeTitle || '').localeCompare(String(b.episodeTitle || '')));
     statusText.textContent = snapshot.cached
       ? 'Showing the latest published TiVo snapshot.'
       : 'Showing a freshly published TiVo snapshot.';
