@@ -9,6 +9,7 @@ const lastUpdated = document.getElementById('lastUpdated');
 
 let shows = [];
 let snapshot = null;
+const expandedGroups = new Set();
 
 function escapeHtml(value) {
   return String(value ?? '').replace(/[&<>"']/g, char => ({
@@ -90,6 +91,7 @@ function groupedShows(sourceShows) {
     const key = normalize(title.trim()) || 'untitled';
     if (!groups.has(key)) {
       groups.set(key, {
+        key,
         title,
         shows: [],
         latestCaptureTime: 0,
@@ -131,17 +133,21 @@ function render() {
     const groupTitle = escapeHtml(group.title || 'Untitled');
     const latest = group.latestCaptureTime ? formatDate(group.latestCaptureTime) : '-';
     const count = group.shows.length === 1 ? '1 recording' : `${group.shows.length} recordings`;
+    const expanded = expandedGroups.has(group.key);
     const groupRow = `
       <tr class="group-row">
         <td colspan="4">
+          <button class="expand-btn" type="button" data-group-key="${escapeHtml(group.key)}" aria-expanded="${expanded ? 'true' : 'false'}" aria-label="${expanded ? 'Hide' : 'Show'} recordings for ${groupTitle}">${expanded ? '▾' : '▸'}</button>
           <span class="group-title">${groupTitle}</span>
-          <span class="group-meta">${count}</span>
+          <span class="group-meta">${count}${expanded ? '' : ' · hidden'}</span>
         </td>
         <td>${escapeHtml(latest)}</td>
         <td>${escapeHtml(formatDuration(group.durationMs))}</td>
         <td>${escapeHtml(formatBytes(group.sizeBytes))}</td>
       </tr>
     `;
+
+    if (!expanded) return groupRow;
 
     const showRows = group.shows.map(show => {
     const title = escapeHtml(show.title || 'Untitled');
@@ -203,5 +209,14 @@ async function load() {
 
 searchInput.addEventListener('input', render);
 suggestionsToggle.addEventListener('change', render);
+rows.addEventListener('click', event => {
+  const button = event.target.closest('[data-group-key]');
+  if (!button) return;
+
+  const key = button.dataset.groupKey;
+  if (expandedGroups.has(key)) expandedGroups.delete(key);
+  else expandedGroups.add(key);
+  render();
+});
 
 load();
