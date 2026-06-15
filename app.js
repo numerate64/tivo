@@ -96,7 +96,8 @@ function groupedShows(sourceShows) {
         shows: [],
         latestCaptureTime: 0,
         durationMs: 0,
-        sizeBytes: 0
+        sizeBytes: 0,
+        suggestionCount: 0
       });
     }
 
@@ -105,6 +106,7 @@ function groupedShows(sourceShows) {
     group.latestCaptureTime = Math.max(group.latestCaptureTime, captureTime(show));
     group.durationMs += Number(show.durationMs || 0);
     group.sizeBytes += Number(show.sizeBytes || 0);
+    if (show.isSuggestion) group.suggestionCount += 1;
   }
 
   return [...groups.values()]
@@ -133,12 +135,15 @@ function render() {
     const groupTitle = escapeHtml(group.title || 'Untitled');
     const latest = group.latestCaptureTime ? formatDate(group.latestCaptureTime) : '-';
     const count = group.shows.length === 1 ? '1 recording' : `${group.shows.length} recordings`;
+    const suggestion = group.suggestionCount
+      ? `<span class="badge suggestion-badge">${group.suggestionCount === 1 ? 'Suggested' : `${group.suggestionCount} suggested`}</span>`
+      : '';
     const expanded = expandedGroups.has(group.key);
     const groupRow = `
-      <tr class="group-row">
+      <tr class="group-row${group.suggestionCount ? ' suggestion-row' : ''}">
         <td colspan="4">
           <button class="expand-btn" type="button" data-group-key="${escapeHtml(group.key)}" aria-expanded="${expanded ? 'true' : 'false'}" aria-label="${expanded ? 'Hide' : 'Show'} recordings for ${groupTitle}">${expanded ? '▾' : '▸'}</button>
-          <span class="group-title">${groupTitle}</span>
+          <span class="group-title">${groupTitle}${suggestion}</span>
           <span class="group-meta">${count}${expanded ? '' : ' · hidden'}</span>
         </td>
         <td>${escapeHtml(latest)}</td>
@@ -150,26 +155,26 @@ function render() {
     if (!expanded) return groupRow;
 
     const showRows = group.shows.map(show => {
-    const title = escapeHtml(show.title || 'Untitled');
-    const episode = escapeHtml(show.episodeTitle || '-');
-    const channel = escapeHtml([show.sourceChannel, show.sourceStation].filter(Boolean).join(' · ') || '-');
-    const rating = escapeHtml(show.rating || '-');
-    const description = show.description
-      ? `<span class="description">${escapeHtml(show.description)}</span>`
-      : '';
-    const suggestion = show.isSuggestion ? '<span class="badge">Suggested</span>' : '';
+      const title = escapeHtml(show.title || 'Untitled');
+      const episode = escapeHtml(show.episodeTitle || '-');
+      const channel = escapeHtml([show.sourceChannel, show.sourceStation].filter(Boolean).join(' · ') || '-');
+      const rating = escapeHtml(show.rating || '-');
+      const description = show.description
+        ? `<span class="description">${escapeHtml(show.description)}</span>`
+        : '';
+      const suggestion = show.isSuggestion ? '<span class="badge suggestion-badge">Suggested</span>' : '';
 
-    return `
-      <tr>
-        <td><span class="show-title">${title}${suggestion}</span>${description}</td>
-        <td>${episode}</td>
-        <td>${channel}</td>
-        <td>${rating}</td>
-        <td>${escapeHtml(formatDate(show.captureDate))}</td>
-        <td>${escapeHtml(formatDuration(show.durationMs))}</td>
-        <td>${escapeHtml(formatBytes(show.sizeBytes))}</td>
-      </tr>
-    `;
+      return `
+        <tr class="${show.isSuggestion ? 'suggestion-row' : ''}">
+          <td><span class="show-title">${title}${suggestion}</span>${description}</td>
+          <td>${episode}</td>
+          <td>${channel}</td>
+          <td>${rating}</td>
+          <td>${escapeHtml(formatDate(show.captureDate))}</td>
+          <td>${escapeHtml(formatDuration(show.durationMs))}</td>
+          <td>${escapeHtml(formatBytes(show.sizeBytes))}</td>
+        </tr>
+      `;
     }).join('');
 
     return groupRow + showRows;
