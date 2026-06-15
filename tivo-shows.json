@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-15T02:30:31.515Z",
-  "sourceUpdatedAt": "2026-06-15T02:30:31.451Z",
-  "sourceCacheUpdatedAt": "2026-06-15T02:30:31.451Z",
+  "updatedAt": "2026-06-15T03:00:25.870Z",
+  "sourceUpdatedAt": "2026-06-15T03:00:25.779Z",
+  "sourceCacheUpdatedAt": "2026-06-15T03:00:25.779Z",
   "source": "Local TiVo API",
-  "totalItems": 1665,
-  "loadedItems": 1665,
+  "totalItems": 1661,
+  "loadedItems": 1661,
   "cached": false,
   "storage": {
-    "usedBytes": 3794838487040,
+    "usedBytes": 3791776645120,
     "totalBytes": 6597069766656,
-    "availableBytes": 2802231279616,
+    "availableBytes": 2805293121536,
     "knownTotal": true
   },
   "shows": [
@@ -11703,42 +11703,6 @@
       "captureDate": "2022-12-30T20:59:58.000Z"
     },
     {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "International Appeal",
-      "description": "International flavors are highlighted, beginning in Key Largo, Fla., where Guy visits an Italian spot known for its outrageous veal and hearty truffle mac and cheese. Also: A funky food truck in Stockton, Cal., offers a taste of Southeast Asia with its homemade rice noodle soup; and a neighborhood San Francisco joint serves Puerto Rican and Cuban fare. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1796000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-30T19:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Legends of Texas",
-      "description": "Guy hangs out with Matthew McConaughey and football great Earl Campbell while visiting Texas. Also: a look back at the very first episode of \"Triple D.\" Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1017118720,
-      "captureDate": "2022-12-30T17:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Best of Breakfast",
-      "description": "Great breakfast food is highlighted during visits to California, Florida, New York and Arizona. Among the classic dishes featured are waffles, biscuits and gravy, huevos rancheros, and hash. Plus, the host tries Louisiana veal, bacon donuts, and a pancake that actually resembles Guy. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1017118720,
-      "captureDate": "2022-12-30T15:59:58.000Z"
-    },
-    {
       "title": "Brooklyn Nine-Nine",
       "episodeTitle": "Renewal",
       "description": "The squad comes together to work an important high-stakes case. Copyright Rovi, Inc.",
@@ -11989,18 +11953,6 @@
       "durationMs": 3593000,
       "sizeBytes": 1059061760,
       "captureDate": "2022-12-26T06:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins, and Dives",
-      "episodeTitle": "Kickin' It in Key West",
-      "description": "Highlights of a trip to Key West, Fla., include a shack that serves New England seafood; a husband and wife who make memorable fish tacos; and a tiny food cart specializing in Caribbean-Asian recipes. Copyright Rovi, Inc.",
-      "sourceChannel": "40",
-      "sourceStation": "FOOD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 513802240,
-      "captureDate": "2022-12-26T06:29:58.000Z"
     },
     {
       "title": "Dirty Jobs",
