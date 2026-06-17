@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-16T23:30:19.077Z",
-  "sourceUpdatedAt": "2026-06-16T23:30:18.998Z",
-  "sourceCacheUpdatedAt": "2026-06-16T23:30:18.998Z",
+  "updatedAt": "2026-06-17T00:00:21.848Z",
+  "sourceUpdatedAt": "2026-06-17T00:00:21.789Z",
+  "sourceCacheUpdatedAt": "2026-06-17T00:00:21.789Z",
   "source": "Local TiVo API",
-  "totalItems": 1661,
-  "loadedItems": 1661,
+  "totalItems": 1662,
+  "loadedItems": 1662,
   "cached": false,
   "storage": {
-    "usedBytes": 3799127162880,
+    "usedBytes": 3799630479360,
     "totalBytes": 6597069766656,
-    "availableBytes": 2797942603776,
+    "availableBytes": 2797439287296,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "Renovation Aloha",
+      "episodeTitle": "Tristyn's Childhood Home Renovation",
+      "description": "When Kamohai and Tristyn rebuild her childhood home, the renovation becomes deeply personal. Tight budgets, sky-high expectations, and family emotions collide, turning this project into their most meaningful and pressure-filled challenge yet. Copyright Rovi, Inc.",
+      "sourceChannel": "1492",
+      "sourceStation": "HGTVHD-E",
+      "rating": "TV-PG",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 304087040,
+      "captureDate": "2026-06-16T23:59:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Spain vs. Cape Verde",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-03T01:59:58.000Z"
     },
     {
-      "title": "NCIS",
-      "episodeTitle": "Fleeting",
-      "description": "Navy Week turns electric when a stolen squad car flips and reveals a sailor stabbed in the trunk. As D.C. spirals into chaos, the team chases a killer while carrying the weight of recent events. Copyright Rovi, Inc.",
-      "sourceChannel": "1012",
-      "sourceStation": "WPRIDT",
+      "title": "Grey's Anatomy",
+      "episodeTitle": "Feel It Still",
+      "description": "Jo returns for her first full day back from leave, and Owen struggles to keep it together when someone close to him is admitted to Grey Sloan. Meanwhile, Bailey navigates hospital leadership. Copyright Rovi, Inc.",
+      "sourceChannel": "1005",
+      "sourceStation": "WCVBDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3592000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2026-03-31T23:59:58.000Z"
+      "durationMs": 3779000,
+      "sizeBytes": 3198156800,
+      "captureDate": "2026-04-03T01:59:58.000Z"
     },
     {
       "title": "NCIS",
