@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-17T00:00:21.848Z",
-  "sourceUpdatedAt": "2026-06-17T00:00:21.789Z",
-  "sourceCacheUpdatedAt": "2026-06-17T00:00:21.789Z",
+  "updatedAt": "2026-06-17T00:30:20.640Z",
+  "sourceUpdatedAt": "2026-06-17T00:30:20.571Z",
+  "sourceCacheUpdatedAt": "2026-06-17T00:30:20.571Z",
   "source": "Local TiVo API",
   "totalItems": 1662,
   "loadedItems": 1662,
   "cached": false,
   "storage": {
-    "usedBytes": 3799630479360,
+    "usedBytes": 3800542740480,
     "totalBytes": 6597069766656,
-    "availableBytes": 2797439287296,
+    "availableBytes": 2796527026176,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "HGTVHD-E",
       "rating": "TV-PG",
       "isSuggestion": false,
-      "durationMs": 0,
-      "sizeBytes": 304087040,
+      "durationMs": 1553000,
+      "sizeBytes": 1216348160,
       "captureDate": "2026-06-16T23:59:58.000Z"
     },
     {
