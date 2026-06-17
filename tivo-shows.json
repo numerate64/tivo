@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-17T01:00:23.683Z",
-  "sourceUpdatedAt": "2026-06-17T01:00:23.608Z",
-  "sourceCacheUpdatedAt": "2026-06-17T01:00:23.608Z",
+  "updatedAt": "2026-06-17T01:30:24.540Z",
+  "sourceUpdatedAt": "2026-06-17T01:30:24.466Z",
+  "sourceCacheUpdatedAt": "2026-06-17T01:30:24.466Z",
   "source": "Local TiVo API",
-  "totalItems": 1662,
-  "loadedItems": 1662,
+  "totalItems": 1611,
+  "loadedItems": 1611,
   "cached": false,
   "storage": {
-    "usedBytes": 3801423544320,
+    "usedBytes": 3755328143360,
     "totalBytes": 6597069766656,
-    "availableBytes": 2795646222336,
+    "availableBytes": 2841741623296,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "HGTVHD-E",
       "rating": "TV-PG",
       "isSuggestion": false,
-      "durationMs": 3277000,
-      "sizeBytes": 2097152000,
+      "durationMs": 3598000,
+      "sizeBytes": 1772093440,
       "captureDate": "2026-06-16T23:59:58.000Z"
     },
     {
@@ -3855,30 +3855,6 @@
       "captureDate": "2024-08-09T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Happy Trails",
-      "description": "Surprise guests return for Parker and Victoria's wedding; Lou learns that her fellow campers won't be returning to camp next year. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-08-02T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Slapshot to the Heart",
-      "description": "Lou ropes in Jake and Winnie to help her play Cupid; Parker and Destiny try to convince unsupervised campers from visiting Ski-kiwaka. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-08-02T22:59:58.000Z"
-    },
-    {
       "title": "Christina on the Coast",
       "episodeTitle": "Buckling Under the Timeline",
       "description": "A couple who recently bought a property needs help making it a home for themselves and their three children. Christina intends to expand their primary living space, but material and infrastructural expenses may cause delays in the restoration. Copyright Rovi, Inc.",
@@ -3889,30 +3865,6 @@
       "durationMs": 3780000,
       "sizeBytes": 1855979520,
       "captureDate": "2024-08-02T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Cold Feet, Hot Brobblers",
-      "description": "Lou and Destiny believe Victoria does not want to marry Parker. Jake takes Parker on a virtual reality excursion to select the ideal location for his honeymoon. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-26T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "License to Cattle Drive",
-      "description": "Parker must complete a series of examinations to obtain a marriage license. Winnie and Jake stage a faux cattle drive for Bill. Lou retrieves Victoria's bridal outfit. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-26T22:59:58.000Z"
     },
     {
       "title": "Christina on the Coast",
@@ -3927,30 +3879,6 @@
       "captureDate": "2024-07-26T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Iguana Be Best Man",
-      "description": "Noah and Lou lose a wedding ring for Parker while competing to be his Best Man; Destiny tries to prove to Bill that she can survive in the wild. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-19T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "And the Kiki Goes To...",
-      "description": "When a recruiter from Julliard visits camp, Noah enlists Destiny to help him prepare for an audition; Lou tries to prove to the campers that she is fun. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-19T22:59:58.000Z"
-    },
-    {
       "title": "Christina on the Coast",
       "episodeTitle": "Surf En Suite",
       "description": "Christina assists a young family on a tight budget in expanding their primary bedroom and designing their ideal kitchen. She will also need to locate storage for their displaced surfboards. She also needs to prepare a birthday celebration for her daughter, who is 13 years old. Copyright Rovi, Inc.",
@@ -3963,30 +3891,6 @@
       "captureDate": "2024-07-19T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Free Falls and Pickleball",
-      "description": "A \"Jessie\" spin-off in which Emma, Ravi and Zuri attend a summer camp in Maine. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-12T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Busk a Move",
-      "description": "A \"Jessie\" spin-off in which Emma, Ravi and Zuri attend a summer camp in Maine. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-12T22:59:58.000Z"
-    },
-    {
       "title": "Christina on the Coast",
       "episodeTitle": "Growing Up Christina",
       "description": "Christina takes on her most important clients ever, her parents. They've debated moving for years, but now, they've decided to remodel Christina's childhood home, and their fondness for the past may interfere with Christina's plans for their future. Copyright Rovi, Inc.",
@@ -3997,30 +3901,6 @@
       "durationMs": 3774000,
       "sizeBytes": 1855979520,
       "captureDate": "2024-07-12T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Game of Throne",
-      "description": "The Compton Cowboys drop by a visit to help Bill at the ranch. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-05T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Yodel Recall",
-      "description": "Bill meets an old rival at the yodeling contest. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2024-07-05T22:59:58.000Z"
     },
     {
       "title": "Station 19",
@@ -5235,18 +5115,6 @@
       "captureDate": "2023-12-08T02:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Friends in Snow Places",
-      "description": "Santa's famous reindeer, Comet and Cupid, visit the ranch. Lou, Parker, and Jake travel to a lodge in the mountains, but soon find themselves trapped in the cold. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-12-02T02:29:58.000Z"
-    },
-    {
       "title": "SEAL Team",
       "episodeTitle": "Frog On The Tracks",
       "description": "Bravo rushes to thwart a terrorist plot and apprehend their targets. Meanwhile, Jason must make a challenging choice in pursuit of the truth. Copyright Rovi, Inc.",
@@ -5295,18 +5163,6 @@
       "captureDate": "2023-10-04T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "The Glitching Hour",
-      "description": "Noah and Megan watch a strange VHS tape that leads them to believe Jake isn't really who he seems; Lou thinks her life is a television show, and Bill and Winnie are just actors. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-09-30T01:29:58.000Z"
-    },
-    {
       "title": "Good Bones",
       "episodeTitle": "New Build, New Business",
       "description": "Mina and the crew are hoping to achieve top pay for an expensive new build on the site next door after losing money on their previous house. Mina plans to use ancient doors to offset the blandness of the new construction, but a mishap could wreck the project. Copyright Rovi, Inc.",
@@ -5329,18 +5185,6 @@
       "durationMs": 3780000,
       "sizeBytes": 1855979520,
       "captureDate": "2023-09-26T23:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Me, Myself, and A.I.",
-      "description": "Jake and Bill use an Artificial Intelligence program to pose as Lou and trick Noah; Parker discovers that Winnie is afraid to go to the dentist, so he helps her get over her fear. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-09-25T00:29:58.000Z"
     },
     {
       "title": "Good Bones",
@@ -5367,18 +5211,6 @@
       "captureDate": "2023-09-19T23:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Coop D'etat",
-      "description": "Winnie and Jake discover a gymnastics exhibition in town featuring their heroes, Katelyn Ohashi and Jordan Chiles; Noah and Bill help Parker, the new mayor of Dusty Tush. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-09-18T00:29:58.000Z"
-    },
-    {
       "title": "Good Bones",
       "episodeTitle": "Falling Head Ova Heels in Fountain Square",
       "description": "Mina helps her friend convert a historic Fountain Square home into a salon for her beauty business. They plan to add a coffee shop into the renovation, but things could turn ugly when the health department steps in with other ideas. Copyright Rovi, Inc.",
@@ -5401,18 +5233,6 @@
       "durationMs": 3779000,
       "sizeBytes": 1866465280,
       "captureDate": "2023-09-12T23:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Don't Hate the Mayor, Hate the Game",
-      "description": "Jake and Parker compete to be the mayor of Dusty Tush; Lou creates a fake treasure hunt to spend time with Bill and Destiny. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-09-11T00:29:58.000Z"
     },
     {
       "title": "Christina on the Coast",
@@ -5451,18 +5271,6 @@
       "captureDate": "2023-09-05T23:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Wastin' Away Again in Barb-aritaville",
-      "description": "Parker and Destiny plan Kikiwaka's first luau. After being tasked by Destiny to decorate for the luau, Noah, Winnie and Bill compete in a series of ridiculous games. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-09-04T00:29:58.000Z"
-    },
-    {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Re-Creation (The Last Day - Part 2)",
       "description": "Monarch's ultimate plan is now underway. Nothing seems to be able to stop him. Especially as, while the world is plunged into chaos, the super-villain has just trapped Ladybug himself. Copyright Rovi, Inc.",
@@ -5497,18 +5305,6 @@
       "durationMs": 3840000,
       "sizeBytes": 1887436800,
       "captureDate": "2023-08-30T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "What About Barb?",
-      "description": "Lou, Winnie and Jake team up to help Barb Barca. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-08-28T00:29:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -5547,18 +5343,6 @@
       "captureDate": "2023-08-23T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Hot Couture",
-      "description": "Winnie, Jake, Bill and Scout challenge each other for A/C. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-08-21T00:29:58.000Z"
-    },
-    {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Representation",
       "description": "When Adrien disobeys his father to join Marinette, the latter is forced to find his son. At the same time, Marinette is convinced that Adrien is looking for her. Thinking she will find the boy she loves, she discovers a secret that nothing prepared her for. Copyright Rovi, Inc.",
@@ -5595,18 +5379,6 @@
       "captureDate": "2023-08-15T23:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "An Arrow Victory",
-      "description": "A food critic causes chaos at a new camp restaurant. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-08-14T00:29:58.000Z"
-    },
-    {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Revolution",
       "description": "Chloé is more powerful than ever and, thanks to her, so is Monarch. Ladybug and Cat Noir wonder about their superpowers, unaware that they have just fallen into a machiavellian trap. As for Marinette and Adrien, their lives are about to change forever. Copyright Rovi, Inc.",
@@ -5629,18 +5401,6 @@
       "durationMs": 3719000,
       "sizeBytes": 1835008000,
       "captureDate": "2023-08-11T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Meat Cute",
-      "description": "Destiny and Parker try to open a restaurant. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-08-07T00:29:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -5751,18 +5511,6 @@
       "captureDate": "2023-08-04T00:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Workaversary Girl",
-      "description": "Noah bonds with a new camper over their love for puppets; Lou enlists Winnie to help her pull a surprise together for Parker on their \"Workaversary.\" Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-07-31T00:29:58.000Z"
-    },
-    {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Confrontation",
       "description": "The end of secondary school is approaching and Lila & Chloé have to defend their classmates futures in front of the class council. Marinette is worried. What will be the next evil plan of the 2 villains? Copyright Rovi, Inc.",
@@ -5785,18 +5533,6 @@
       "durationMs": 3778000,
       "sizeBytes": 1855979520,
       "captureDate": "2023-07-28T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Cursed Day of Camp",
-      "description": "Parker, Bill, and Jake try to convince a reluctant Lou that the camp is cursed; Winnie and Destiny help a new camper fit in. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-07-24T00:29:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -5931,18 +5667,6 @@
       "captureDate": "2023-05-23T01:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Desperate Treasures",
-      "description": "To save the ranch, Winnie, Bill, and Jake decide to finish the hunt for the Dusty Tush treasure. Meanwhile, Lou, Parker, and our counselors decide to hold a telethon. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-05-22T00:59:58.000Z"
-    },
-    {
       "title": "The Equalizer",
       "episodeTitle": "Eye for an Eye",
       "description": "The team is put into harm's way when McCall's former CIA colleague is found alive and sets her sights on revenge by attempting to abduct Dante, Harry and Mel. Also, Aunt Vi and Delilah must act quickly to de-escalate a hostage situation of their own when a robber targets a bodega. Third season finale. Copyright Rovi, Inc.",
@@ -5989,18 +5713,6 @@
       "durationMs": 3594000,
       "sizeBytes": 2998927360,
       "captureDate": "2023-05-16T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Most Wanted",
-      "description": "Winnie is accused of causing a stampede. Noah asks Parker and Megan to help him choose his next acting role. Bill gets \"Most Changed\" in his camp yearbook and spirals. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-05-15T00:59:58.000Z"
     },
     {
       "title": "The Equalizer",
@@ -6061,18 +5773,6 @@
       "durationMs": 3590000,
       "sizeBytes": 2998927360,
       "captureDate": "2023-05-09T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Writer's Locked",
-      "description": "Lou invites her biggest fan, Oliver, to the camp to read her latest book. Noah gets invited to attend the premiere of his first movie. Parker asks Bill and Jake to watch his dog. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-05-08T00:59:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -6183,18 +5883,6 @@
       "captureDate": "2023-04-27T02:00:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Butter You Doing Here?",
-      "description": "Noah and Destiny must work with Ken, \"The Perfect Counselor.\" Jake tells Winnie that she's one of his best friends. Bill enters a Future Ranchers of Dusty Tush competition. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-04-24T00:59:58.000Z"
-    },
-    {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Deflagration (The Kwamis' Choice - Part 2)",
       "description": "Plagg and Tikki make a drastic noise that changes many things in Paris. Copyright Rovi, Inc.",
@@ -6255,18 +5943,6 @@
       "captureDate": "2023-04-20T02:00:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "For Letter or Worse",
-      "description": "Destiny plans the Tush Heritage Festival; Lou, Bill, and Jake resort to old school transportation methods to pick up BBQ; Parker tells Victoria how he feels. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-04-17T00:59:58.000Z"
-    },
-    {
       "title": "Good Trouble",
       "episodeTitle": "I Gotta Feeling",
       "description": "Mariana struggles to navigate her changed relationship with Evan. Dennis and Davia are both busy in their careers, but are they still able to make time for one another? Alice, Malika, and Gael let off steam at a local Queer Night. Copyright Rovi, Inc.",
@@ -6301,18 +5977,6 @@
       "durationMs": 3592000,
       "sizeBytes": 2998927360,
       "captureDate": "2023-04-11T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Badminton to the Bone",
-      "description": "Destiny, Bill and Winnie get trapped in a bank vault while treasure hunting; Jake helps Lou and Parker find common ground; Noah finds out Megan has an ultra-competitive side. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-04-10T00:59:58.000Z"
     },
     {
       "title": "Blue Bloods",
@@ -6351,18 +6015,6 @@
       "captureDate": "2023-04-06T02:00:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Tap'd Out",
-      "description": "Lou gets invited to join a Dusty Tush secret society. Meanwhile, Jake is super bummed that he's not very strong, so Noah and Bill make it seem like he's stronger, and Winnie learns to dance. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-04-02T23:59:58.000Z"
-    },
-    {
       "title": "Blue Bloods",
       "episodeTitle": "The Naked Truth",
       "description": "Jamie learns that Eddie's close friend Tracey may be using the restaurant she owns as a drug front; Erin is accused of causing the suicide of a former colleague; Danny and Baez are faced with various descriptions of the same suspect. Copyright Rovi, Inc.",
@@ -6399,18 +6051,6 @@
       "captureDate": "2023-03-30T02:00:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Camp Fails and Beaver Tales",
-      "description": "Unsupervised for the day, Winnie, Bill and Jake canoe to an island in the middle of Lake Tush. Parker wants to create a new camp activity. Lou helps Noah build a bookcase. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-03-26T23:59:58.000Z"
-    },
-    {
       "title": "Good Trouble",
       "episodeTitle": "It Was Not Your Fault But Mine",
       "description": "Callie returns to the Coterie to support Mariana in a time of crisis. Gael searches for Isabella and his baby. When a member of the Coterie anonymously submits a complaint, Alice tracks down the secret critic. Luca digs into his past. Copyright Rovi, Inc.",
@@ -6445,18 +6085,6 @@
       "durationMs": 3592000,
       "sizeBytes": 2998927360,
       "captureDate": "2023-03-21T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Model Citizen",
-      "description": "Parker is nervous about his citizenship test. Meanwhile, Destiny asks Jake to model her new clothing line, and Noah takes Bill to the local ice cream shop. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-03-19T23:59:58.000Z"
     },
     {
       "title": "Good Trouble",
@@ -6507,30 +6135,6 @@
       "captureDate": "2023-03-13T03:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Pickett Fencing",
-      "description": "Bill's twin sister Jill visits, ruining his hopes for a low-key birthday. Destiny and Jake suspect that Lou found the Lost Treasure of Dusty Tush. Noah teaches Winnie to fence. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1801000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-03-13T00:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Shoe Drops and Chili Plops",
-      "description": "Noah and Parker compete to win a pair of designer shoes. Bill enters a chili competition. Lou finds an old landline phone in the mess hall. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-03-12T23:59:58.000Z"
-    },
-    {
       "title": "Blue Bloods",
       "episodeTitle": "Close to Home",
       "description": "Danny partners with Texas Ranger Waylon Gates to deliver an infamous drug cartel boss to arraignment, but the mission becomes complicated when the criminal threatens to harm the Reagans; Erin takes on a highly contentious assault case. Copyright Rovi, Inc.",
@@ -6567,18 +6171,6 @@
       "captureDate": "2023-03-04T02:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "No Pain, No Grain",
-      "description": "Winnie helps her brother Wayne propose to his boyfriend during their visit to the camp. Lou and Destiny teach Bill about self-care, and Parker finally gets his own place to stay. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-03-04T00:29:58.000Z"
-    },
-    {
       "title": "A Million Little Things",
       "episodeTitle": "a bird in the hand",
       "description": "Gary and Maggie gain much more than breathing techniques in their birthing class. Meanwhile, Rome and Regina's quest to hire a caregiver for Walter takes an unexpected turn, and Theo learns a tough life lesson from an unlikely duo. Copyright Rovi, Inc.",
@@ -6603,18 +6195,6 @@
       "captureDate": "2023-02-28T02:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "The Wicked Switch of the West",
-      "description": "When Winnie becomes counselor for a day, Destiny decides to show her how her reckless behavior affects others. Meanwhile, Noah receives some bad news, and Lou plans a livestream. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-02-25T00:29:58.000Z"
-    },
-    {
       "title": "A Million Little Things",
       "episodeTitle": "in the room",
       "description": "The ladies treat Maggie to one last hurrah before the baby's arrival, and the guys attend a Bruins game for the last time. Meanwhile, Eddie toys with the idea of going back to college and Rome anxiously awaits news about his father. Copyright Rovi, Inc.",
@@ -6637,18 +6217,6 @@
       "durationMs": 10800000,
       "sizeBytes": 5305794560,
       "captureDate": "2023-02-23T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Alpaca-lypse Now",
-      "description": "Destiny, Bill and Parker must stall a livestock auction to retrieve a clue in the treasure hunt, Jake works on a gift for his moms, and Noah practices stunts. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-02-18T00:29:58.000Z"
     },
     {
       "title": "A Million Little Things",
@@ -6723,30 +6291,6 @@
       "captureDate": "2023-02-04T02:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Finn It To Win It",
-      "description": "Finn visits Kikiwaka Ranch on a mission, Bill's new pet causes problems, and Winnie tries to fix a lock with disastrous results. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1802000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-02-04T00:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "The Wrath of Con",
-      "description": "A local convention featuring Noah's movie is disrupted by an unexpected star. Meanwhile, The Marshal's niece comes to camp, and Jake thinks he's discovered something in the lake. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-01-28T00:29:58.000Z"
-    },
-    {
       "title": "NCIS: Hawai'i",
       "episodeTitle": "Shields Up",
       "description": "When an elite special forces Marine captain is murdered, the NCIS team finds a suspect in a really unusual place. Copyright Rovi, Inc.",
@@ -6769,18 +6313,6 @@
       "durationMs": 3599000,
       "sizeBytes": 2977955840,
       "captureDate": "2023-01-21T02:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Wild West Side Story",
-      "description": "A new dance camp has started nearby, which presents different challenges to Lou and Parker. Bill and Noah go fishing, and Winnie struggles with sleep deprivation. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-01-21T00:59:58.000Z"
     },
     {
       "title": "Big Sky",
@@ -6819,18 +6351,6 @@
       "captureDate": "2023-01-14T02:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Art Imitates Life",
-      "description": "Jake displays an unusual talent, which reveals secrets around the camp. Winnie is eager to ride a horse, and Bill tries to cover up a mistake. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-01-14T00:59:58.000Z"
-    },
-    {
       "title": "Big Sky",
       "episodeTitle": "Are You Mad?",
       "description": "Jenny, Cassie and Beau uncover the truth about the Bleeding Heart Killer, but chaos breaks out before justice can be served. Meanwhile, Avery's involvement with Tony's crime family escalates to a standoff, and Emily and Denise are put in grave danger. Copyright Rovi, Inc.",
@@ -6865,30 +6385,6 @@
       "durationMs": 3597000,
       "sizeBytes": 3019898880,
       "captureDate": "2023-01-05T02:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "The Song Remains A Pain",
-      "description": "Bill gets suspicious about the reporter's motives after Lou wins an award from a magazine; Parker and Jake help Noah prepare for a date; Destiny and Winnie work on a song for their cabin. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-01-03T01:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Hope You Geyser Ready to Go!",
-      "description": "Parker gathers everyone to reach the active geyser that only erupts every 15 years and take a group picture. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1798000,
-      "sizeBytes": 901775360,
-      "captureDate": "2023-01-03T00:59:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -6949,18 +6445,6 @@
       "durationMs": 1980000,
       "sizeBytes": 996147200,
       "captureDate": "2022-12-03T14:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Hauntin' Around the Christmas Tree",
-      "description": "While planning an over-the-top Christmas bash, Parker encounters several ghostly visitors who teach him the true meaning of the holiday. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-12-03T01:29:58.000Z"
     },
     {
       "title": "Big Sky",
@@ -7371,18 +6855,6 @@
       "captureDate": "2022-09-26T03:00:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Bunkhouse of Horror",
-      "description": "A mysterious handyman tells the camp three spooky stories set on the ranch involving a cursed bracelet, a possessed scarecrow, and a magic wishing well. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1803000,
-      "sizeBytes": 870318080,
-      "captureDate": "2022-09-26T01:29:58.000Z"
-    },
-    {
       "title": "Renovation Island",
       "episodeTitle": "Upwardly Mobile",
       "description": "Sarah and Bryan spend some time on the island and have a big decision to make as they discuss what lies ahead for the hotel and their family. And the Florida home makes headway when the girl's rooms are revealed. Copyright Rovi, Inc.",
@@ -7611,18 +7083,6 @@
       "captureDate": "2022-07-31T21:30:00.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Back in the Saddle",
-      "description": "With Lou's help, Destiny competes in the Dusty Tush Rodeo Pageant. Parker, Winnie and Jake build a parade float, and Bill and Noah get an announcing job at the rodeo. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 859832320,
-      "captureDate": "2022-07-29T23:29:58.000Z"
-    },
-    {
       "title": "Good Trouble",
       "episodeTitle": "A Penny With a Hole In It",
       "description": "The FCG try to hire Zelda as a brand influencer. Malika and Tracey work together on the Women's Shelter. Joaquin discovers that Jenna may be in a cult. Alice feels like she is behind in her career. Gael struggles with forgiving Isabella. Copyright Rovi, Inc.",
@@ -7633,18 +7093,6 @@
       "durationMs": 3779000,
       "sizeBytes": 1793064960,
       "captureDate": "2022-07-29T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "A Recipe for Disaster",
-      "description": "A child genius asks Bill and Parker to help her learn to have fun. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-07-22T23:29:58.000Z"
     },
     {
       "title": "Good Trouble",
@@ -7659,18 +7107,6 @@
       "captureDate": "2022-07-22T01:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "Where the Buffalo Betties Roam",
-      "description": "Lou, Bill, and Destiny try to get the jade compass back from a group of socialites. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1803000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-07-15T23:29:58.000Z"
-    },
-    {
       "title": "Good Trouble",
       "episodeTitle": "Baby, Just Say 'Yes'",
       "description": "Alice and Sumi get caught up with TikTok challenges. Davia struggles with home schooling Elliot. Mariana helps Joaquin search for Jenna. Luca moves into the Coterie – but does he really feel at home? Isabella crosses a boundary with Gael. Copyright Rovi, Inc.",
@@ -7683,18 +7119,6 @@
       "captureDate": "2022-07-15T01:59:58.000Z"
     },
     {
-      "title": "Bunk'd",
-      "episodeTitle": "The Truth Will Sweat You Free",
-      "description": "Noah gets a mascot job downtown for The Marshal's unsavory new business. Parker asks Lou and Bill to teach him how to be a rancher. Destiny gets hooked on Jake's video games. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1797000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-07-08T23:29:58.000Z"
-    },
-    {
       "title": "Good Trouble",
       "episodeTitle": "What I Wouldn't Give for Love",
       "description": "Davia musters the courage to tell Dennis how she feels. Malika deals with Angelica seeing other people. Alice hires a new manager. The FCG throw a party to celebrate the launch of their app. Luca considers accepting Davia's offer of a home. Copyright Rovi, Inc.",
@@ -7705,42 +7129,6 @@
       "durationMs": 3778000,
       "sizeBytes": 1866465280,
       "captureDate": "2022-07-08T01:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Wrecks Mark the Spot",
-      "description": "Bill searches for treasure with Destiny's reluctant help and despite Lou's disapproval. Parker and Noah plan a dance performance but struggle to include Jake. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1799000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-07-01T23:29:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Never a Dull Moo-ment",
-      "description": "Parks discovers something about the history of the ranch. Destiny struggle with her assignment as a counselor. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1800000,
-      "sizeBytes": 901775360,
-      "captureDate": "2022-06-29T00:59:58.000Z"
-    },
-    {
-      "title": "Bunk'd",
-      "episodeTitle": "Worst Aid",
-      "description": "Winnie plans to secretly audition for a reality stunt show, with Bill and Jake's help. Lou and Noah teach first aid to Destiny and Parker, but Destiny struggles under the pressure. Copyright Rovi, Inc.",
-      "sourceChannel": "1715",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "TV-G",
-      "isSuggestion": false,
-      "durationMs": 1500000,
-      "sizeBytes": 754974720,
-      "captureDate": "2022-06-27T05:14:58.000Z"
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
