@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>TiVo Shows</title>
-    <meta name="description" content="Read-only public listing of current TiVo recordings." />
+    <meta name="description" content="Read-only public listing of current and upcoming TiVo recordings." />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -12,13 +12,17 @@
       <header class="page-header">
         <p><a class="home-link" href="https://numerate64.github.io/project-pages/">Project Pages</a></p>
         <h1>TiVo Shows</h1>
-        <p class="sub">A read-only view of the current recordings available on the TiVo.</p>
+        <p class="sub">A read-only view of the current and upcoming recordings on the TiVo.</p>
       </header>
 
       <section class="summary-strip" aria-label="TiVo summary">
         <div>
-          <span>Shows</span>
+          <span>Current recordings</span>
           <strong id="showCount">-</strong>
+        </div>
+        <div>
+          <span>Upcoming recordings</span>
+          <strong id="upcomingCount">-</strong>
         </div>
         <div>
           <span>Storage used</span>
@@ -30,16 +34,21 @@
         </div>
       </section>
 
+      <nav class="tabs" aria-label="TiVo views">
+        <button class="tab active" type="button" data-tab="current" aria-pressed="true">Current</button>
+        <button class="tab" type="button" data-tab="upcoming" aria-pressed="false">Upcoming</button>
+      </nav>
+
       <section class="controls" aria-label="Search and filters">
         <label class="search-label" for="searchInput">Search</label>
         <input id="searchInput" type="search" placeholder="Search show, episode, channel, description" />
-        <label class="toggle">
+        <label class="toggle" id="suggestionsControl">
           <input id="suggestionsToggle" type="checkbox" checked />
           Include suggestions
         </label>
       </section>
 
-      <section class="table-card" aria-label="TiVo shows">
+      <section class="table-card" aria-label="TiVo recordings">
         <div class="table-status">
           <span id="statusText">Loading shows...</span>
           <span id="resultCount"></span>
@@ -47,15 +56,7 @@
         <div class="table-wrap">
           <table>
             <thead>
-              <tr>
-                <th>Show</th>
-                <th>Episode</th>
-                <th>Channel</th>
-                <th>Rating</th>
-                <th>Recorded</th>
-                <th>Duration</th>
-                <th>Size</th>
-              </tr>
+              <tr id="tableHead"></tr>
             </thead>
             <tbody id="rows"></tbody>
           </table>

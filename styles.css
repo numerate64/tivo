@@ -61,12 +61,13 @@ h1 {
 
 .summary-strip {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
   margin: 24px 0 14px;
 }
 
 .summary-strip div,
+.tabs,
 .controls,
 .table-card {
   background: rgba(255, 255, 255, 0.86);
@@ -90,6 +91,34 @@ h1 {
   display: block;
   font-size: 1.35rem;
   line-height: 1.2;
+}
+
+.tabs {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  margin-bottom: 14px;
+}
+
+.tab {
+  min-width: 112px;
+  padding: 10px 14px;
+  border: 0;
+  border-radius: 6px;
+  color: var(--muted);
+  background: transparent;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.tab:hover {
+  color: var(--blue);
+}
+
+.tab.active {
+  color: #ffffff;
+  background: var(--blue);
 }
 
 .controls {
@@ -239,6 +268,11 @@ tbody tr:hover {
   background: #ffd84d;
 }
 
+.progress-badge {
+  margin-left: 0;
+  background: var(--green);
+}
+
 .empty {
   color: var(--muted);
   text-align: center;
@@ -252,7 +286,7 @@ tbody tr:hover {
   }
 
   .summary-strip {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .table-status {

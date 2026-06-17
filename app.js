@@ -1,14 +1,21 @@
 const rows = document.getElementById('rows');
+const tableHead = document.getElementById('tableHead');
 const searchInput = document.getElementById('searchInput');
 const suggestionsToggle = document.getElementById('suggestionsToggle');
+const suggestionsControl = document.getElementById('suggestionsControl');
 const statusText = document.getElementById('statusText');
 const resultCount = document.getElementById('resultCount');
 const showCount = document.getElementById('showCount');
+const upcomingCount = document.getElementById('upcomingCount');
 const storageUsed = document.getElementById('storageUsed');
 const lastUpdated = document.getElementById('lastUpdated');
+const tabs = [...document.querySelectorAll('[data-tab]')];
 
 let shows = [];
+let upcoming = [];
 let snapshot = null;
+let upcomingSnapshot = null;
+let activeTab = 'current';
 const expandedGroups = new Set();
 
 function escapeHtml(value) {
@@ -61,6 +68,11 @@ function captureTime(show) {
   return Number.isNaN(time) ? 0 : time;
 }
 
+function scheduledTime(show) {
+  const time = new Date(show.scheduledStartTime || 0).getTime();
+  return Number.isNaN(time) ? 0 : time;
+}
+
 function normalize(value) {
   return String(value || '').toLowerCase();
 }
@@ -73,14 +85,16 @@ function matchesSearch(show, query) {
     show.description,
     show.sourceChannel,
     show.sourceStation,
-    show.rating
+    show.rating,
+    show.state
   ].some(value => normalize(value).includes(query));
 }
 
 function filteredShows() {
   const query = normalize(searchInput.value.trim());
-  return shows
-    .filter(show => suggestionsToggle.checked || !show.isSuggestion)
+  const source = activeTab === 'upcoming' ? upcoming : shows;
+  return source
+    .filter(show => activeTab === 'upcoming' || suggestionsToggle.checked || !show.isSuggestion)
     .filter(show => matchesSearch(show, query));
 }
 
@@ -119,8 +133,7 @@ function groupedShows(sourceShows) {
       || String(a.title || '').localeCompare(String(b.title || '')));
 }
 
-function render() {
-  const visible = filteredShows();
+function renderCurrent(visible) {
   const groups = groupedShows(visible);
   const groupLabel = groups.length === 1 ? 'show' : 'shows';
   const recordingLabel = visible.length === 1 ? 'recording' : 'recordings';
@@ -181,42 +194,121 @@ function render() {
   }).join('');
 }
 
+function renderUpcoming(visible) {
+  resultCount.textContent = `${visible.length} ${visible.length === 1 ? 'upcoming recording' : 'upcoming recordings'}`;
+
+  if (!visible.length) {
+    rows.innerHTML = '<tr><td colspan="6" class="empty">No upcoming recordings match that search.</td></tr>';
+    return;
+  }
+
+  rows.innerHTML = visible
+    .slice()
+    .sort((a, b) => scheduledTime(a) - scheduledTime(b)
+      || String(a.title || '').localeCompare(String(b.title || '')))
+    .map(show => {
+      const title = escapeHtml(show.title || 'Untitled');
+      const episode = escapeHtml(show.episodeTitle || '-');
+      const channel = escapeHtml([show.sourceChannel, show.sourceStation].filter(Boolean).join(' · ') || '-');
+      const rating = escapeHtml(show.rating || '-');
+      const state = show.isInProgress
+        ? '<span class="badge progress-badge">Recording now</span>'
+        : escapeHtml(show.state || 'Scheduled');
+      const description = show.description
+        ? `<span class="description">${escapeHtml(show.description)}</span>`
+        : '';
+
+      return `
+        <tr>
+          <td><span class="show-title">${title}</span>${description}</td>
+          <td>${episode}</td>
+          <td>${channel}</td>
+          <td>${rating}</td>
+          <td>${escapeHtml(formatDate(show.scheduledStartTime))}</td>
+          <td>${escapeHtml(formatDuration(show.durationMs))}<span class="description">${state}</span></td>
+        </tr>
+      `;
+    }).join('');
+}
+
+function updateTableHead() {
+  const headings = activeTab === 'upcoming'
+    ? ['Show', 'Episode', 'Channel', 'Rating', 'Scheduled', 'Duration']
+    : ['Show', 'Episode', 'Channel', 'Rating', 'Recorded', 'Duration', 'Size'];
+  tableHead.innerHTML = headings.map(heading => `<th>${heading}</th>`).join('');
+}
+
+function updateTabs() {
+  for (const tab of tabs) {
+    const isActive = tab.dataset.tab === activeTab;
+    tab.classList.toggle('active', isActive);
+    tab.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+  }
+  suggestionsControl.hidden = activeTab === 'upcoming';
+}
+
+function render() {
+  updateTabs();
+  updateTableHead();
+  const visible = filteredShows();
+  if (activeTab === 'upcoming') renderUpcoming(visible);
+  else renderCurrent(visible);
+}
+
 function updateSummary() {
   const total = Number(snapshot?.loadedItems || snapshot?.totalItems || shows.length);
+  const upcomingTotal = Number(upcomingSnapshot?.loadedItems || upcomingSnapshot?.totalItems || upcoming.length);
   const used = snapshot?.storage?.usedBytes
     ?? shows.reduce((sum, show) => sum + Number(show.sizeBytes || 0), 0);
 
   showCount.textContent = total.toLocaleString();
+  upcomingCount.textContent = upcomingTotal.toLocaleString();
   storageUsed.textContent = formatBytes(used);
   lastUpdated.textContent = formatDate(snapshot?.updatedAt);
 }
 
+async function fetchSnapshot(path, label) {
+  const response = await fetch(path, { cache: 'no-store' });
+  if (!response.ok) throw new Error(`${label} failed (${response.status})`);
+  return response.json();
+}
+
 async function load() {
   try {
-    const response = await fetch('./tivo-shows.json', { cache: 'no-store' });
-    if (!response.ok) throw new Error(`Snapshot failed (${response.status})`);
-    snapshot = await response.json();
+    [snapshot, upcomingSnapshot] = await Promise.all([
+      fetchSnapshot('./tivo-shows.json', 'Current snapshot'),
+      fetchSnapshot('./tivo-upcoming.json', 'Upcoming snapshot')
+    ]);
     shows = Array.isArray(snapshot.shows) ? snapshot.shows : [];
+    upcoming = Array.isArray(upcomingSnapshot.shows) ? upcomingSnapshot.shows : [];
     shows.sort((a, b) => captureTime(b) - captureTime(a)
       || String(a.title || '').localeCompare(String(b.title || ''))
       || String(a.episodeTitle || '').localeCompare(String(b.episodeTitle || '')));
-    statusText.textContent = snapshot.cached
-      ? 'Showing the latest published TiVo snapshot.'
-      : 'Showing a freshly published TiVo snapshot.';
+    upcoming.sort((a, b) => scheduledTime(a) - scheduledTime(b)
+      || String(a.title || '').localeCompare(String(b.title || '')));
+    statusText.textContent = snapshot.cached || upcomingSnapshot.cached
+      ? 'Showing the latest published TiVo snapshots.'
+      : 'Showing freshly published TiVo snapshots.';
     updateSummary();
     render();
   } catch (error) {
     console.error(error);
-    statusText.textContent = `Could not load TiVo snapshot: ${error.message}`;
-    rows.innerHTML = '<tr><td colspan="7" class="empty">TiVo snapshot unavailable.</td></tr>';
+    statusText.textContent = `Could not load TiVo snapshots: ${error.message}`;
+    rows.innerHTML = '<tr><td colspan="7" class="empty">TiVo snapshots unavailable.</td></tr>';
   }
 }
 
 searchInput.addEventListener('input', render);
 suggestionsToggle.addEventListener('change', render);
+for (const tab of tabs) {
+  tab.addEventListener('click', () => {
+    activeTab = tab.dataset.tab;
+    render();
+  });
+}
 rows.addEventListener('click', event => {
   const button = event.target.closest('[data-group-key]');
-  if (!button) return;
+  if (!button || activeTab !== 'current') return;
 
   const key = button.dataset.groupKey;
   if (expandedGroups.has(key)) expandedGroups.delete(key);
