@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-17T16:30:20.445Z",
-  "sourceUpdatedAt": "2026-06-17T16:30:20.383Z",
-  "sourceCacheUpdatedAt": "2026-06-17T16:30:20.383Z",
+  "updatedAt": "2026-06-17T17:00:19.379Z",
+  "sourceUpdatedAt": "2026-06-17T17:00:19.320Z",
+  "sourceCacheUpdatedAt": "2026-06-17T17:00:19.320Z",
   "source": "Local TiVo API",
-  "totalItems": 1593,
-  "loadedItems": 1593,
+  "totalItems": 1594,
+  "loadedItems": 1594,
   "cached": false,
   "storage": {
-    "usedBytes": 3712703528960,
+    "usedBytes": 3715199139840,
     "totalBytes": 6597069766656,
-    "availableBytes": 2884366237696,
+    "availableBytes": 2881870626816,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Portugal vs. DR Congo",
+      "description": "Portugal vs. DR Congo in a Group K opener in Houston, Texas. At 41, Cristiano Ronaldo begins his sixth World Cup with eight career goals in the tournament, one shy of the nine scored by Eusebio in the 1966 World Cup alone, where Portugal finished third. Twenty years younger is Joao Neves, a midfield force to watch much like Noah Sadiki of DR Congo, which last made it here as Zaire in 1974. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 348000,
+      "sizeBytes": 1174405120,
+      "captureDate": "2026-06-17T16:49:58.000Z"
+    },
     {
       "title": "Renovation Aloha",
       "episodeTitle": "Tristyn's Childhood Home Renovation",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-06T00:59:58.000Z"
     },
     {
-      "title": "Grey's Anatomy",
-      "episodeTitle": "Feel It Still",
-      "description": "Jo returns for her first full day back from leave, and Owen struggles to keep it together when someone close to him is admitted to Grey Sloan. Meanwhile, Bailey navigates hospital leadership. Copyright Rovi, Inc.",
-      "sourceChannel": "1005",
-      "sourceStation": "WCVBDT",
+      "title": "Tracker",
+      "episodeTitle": "No Good Deed",
+      "description": "Randy enlists Colter's help when one of his closest friends vanishes while under house arrest. Copyright Rovi, Inc.",
+      "sourceChannel": "1004",
+      "sourceStation": "WBZDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3779000,
-      "sizeBytes": 3198156800,
-      "captureDate": "2026-04-03T01:59:58.000Z"
+      "durationMs": 5400000,
+      "sizeBytes": 4519362560,
+      "captureDate": "2026-04-06T00:59:58.000Z"
     },
     {
       "title": "Grey's Anatomy",
