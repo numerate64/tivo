@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-17T01:30:24.540Z",
-  "sourceUpdatedAt": "2026-06-17T01:30:24.466Z",
-  "sourceCacheUpdatedAt": "2026-06-17T01:30:24.466Z",
+  "updatedAt": "2026-06-17T02:00:16.820Z",
+  "sourceUpdatedAt": "2026-06-17T02:00:16.751Z",
+  "sourceCacheUpdatedAt": "2026-06-17T02:00:16.751Z",
   "source": "Local TiVo API",
-  "totalItems": 1611,
-  "loadedItems": 1611,
+  "totalItems": 1593,
+  "loadedItems": 1593,
   "cached": false,
   "storage": {
-    "usedBytes": 3755328143360,
+    "usedBytes": 3712703528960,
     "totalBytes": 6597069766656,
-    "availableBytes": 2841741623296,
+    "availableBytes": 2884366237696,
     "knownTotal": true
   },
   "shows": [
@@ -10347,42 +10347,6 @@
       "captureDate": "2023-01-07T16:59:59.000Z"
     },
     {
-      "title": "Gold Rush",
-      "episodeTitle": "Who's the Boss",
-      "description": "With Parker in Alaska, Tyson risks bringing in new recruits to get Slucifer back on the gold. Tony's Westchester crew calls in a favor that pays off big. The Claytons face a family emergency. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 8159000,
-      "sizeBytes": 4005560320,
-      "captureDate": "2023-01-07T00:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Episode 12",
-      "description": "The gold miners of the Yukon put everything on the line in the hopes of striking it rich. With new miners, new claims and new machines, the stakes are higher than ever. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3594000,
-      "sizeBytes": 1069547520,
-      "captureDate": "2023-01-06T23:00:00.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Tony's Golden Nights",
-      "description": "To double his gold, Tony gambles on a crop of greenhorns to work the night shift. Fred's crew member is injured in a freak accident. The Claytons resurrect a beaten-up conveyor to increase gold production. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1059061760,
-      "captureDate": "2023-01-06T22:00:00.000Z"
-    },
-    {
       "title": "Without a Trace",
       "episodeTitle": "The Friendly Skies",
       "description": "Jack and his team investigate the disappearance of a flight attendant (Heather Donahue) who may have been having a relationship with a pilot. Dr. Morrison: Tim Matheson. Patti: Sarah Rafferty. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
@@ -11907,18 +11871,6 @@
       "captureDate": "2022-12-10T14:29:58.000Z"
     },
     {
-      "title": "Gold Rush",
-      "episodeTitle": "Tony's Golden Nights",
-      "description": "To double his gold, Tony gambles on a crop of greenhorns to work the night shift. Fred's crewmember is injured in a freak accident. Up at Nugget Creek, a medical emergency threatens to end Dustin Hurt's season. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 11640000,
-      "sizeBytes": 3439329280,
-      "captureDate": "2022-12-10T00:59:58.000Z"
-    },
-    {
       "title": "Dead Silent",
       "episodeTitle": "The Red River",
       "description": "Allison Walker mysteriously goes missing just days before Christmas. Investigators scour her pig farm in Adairville, Kentucky, in search of clues. They quickly discover that the deep, dark secret to her whereabouts lies within her own family. Copyright Rovi, Inc.",
@@ -12063,18 +12015,6 @@
       "captureDate": "2022-12-04T16:59:58.000Z"
     },
     {
-      "title": "Gold Rush",
-      "episodeTitle": "Episode 10",
-      "description": "Parker heads to Alaska on a mission to find a wash plant and kickstart the Alaska operation. Meanwhile, the Claytons face a major setback on the road to Golden Acres. Tony's trommel falters at the worst possible time. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-12-04T13:59:58.000Z"
-    },
-    {
       "title": "Triple Digit Flip",
       "episodeTitle": "Murder Mystery vs. Bleep Box",
       "description": "A house in the hills is a dream of Jamil's, so taking a project in a great Phoenix neighborhood is enticing to the team. Copyright Rovi, Inc.",
@@ -12085,18 +12025,6 @@
       "durationMs": 3600000,
       "sizeBytes": 1059061760,
       "captureDate": "2022-12-04T12:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "The Dirt: Season 9 - Heavy Weighs The Crown",
-      "description": "Tony Beets looks back to their experience in Gold Rush with Christo Doyle; talk about what's really goiong on with his dredges; and his relationship with Parker. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-12-04T09:59:58.000Z"
     },
     {
       "title": "Taken",
@@ -12121,18 +12049,6 @@
       "durationMs": 1798000,
       "sizeBytes": 503316480,
       "captureDate": "2022-12-03T14:29:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Little Red Rocket",
-      "description": "Parker heads to Alaska to find a wash plant and kickstart his new operation. Then, Dakota Fred returns to Haines to help son Dustin decode where the old timers left behind a pile of gold on Nugget Creek. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 8159000,
-      "sizeBytes": 4005560320,
-      "captureDate": "2022-12-03T00:59:58.000Z"
     },
     {
       "title": "Military Makeover",
@@ -12171,18 +12087,6 @@
       "captureDate": "2022-11-28T04:59:58.000Z"
     },
     {
-      "title": "Gold Rush",
-      "episodeTitle": "Episode 9",
-      "description": "Parker tasks Mitch with mining out an old road built on virgin ground but problems jeopardize access to both of his washplants. Fred finally gets his monster dozer delivered, only to have it break down. Tony welcomes a new crew into the \"Cursed Cut.\" Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-11-27T15:59:58.000Z"
-    },
-    {
       "title": "Triple Digit Flip",
       "episodeTitle": "World Famous vs. World's Worst",
       "description": "For Jamil and his team--it's time to choose between two houses that couldn't be more different. When they finally come to a decision, the renovation is far from smooth sailing. The home they choose causes them to go over time and budget because Jamil wants nothing less than perfection. Copyright Rovi, Inc.",
@@ -12217,30 +12121,6 @@
       "durationMs": 5400000,
       "sizeBytes": 1541406720,
       "captureDate": "2022-11-26T06:29:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Cursed",
-      "description": "Parker tasks Mitch with mining out an old road built on virgin ground and Fred finally gets his monster dozer delivered. Then, Dustin attempts the impossible to replenish supplies while Kayla tackles the most dangerous diving conditions they've ever seen. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 8160000,
-      "sizeBytes": 2401239040,
-      "captureDate": "2022-11-26T00:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Valley of Prayers",
-      "description": "Parker fires up Sluicifer to tackle the Bear Cut. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3600000,
-      "sizeBytes": 1069547520,
-      "captureDate": "2022-11-25T22:59:58.000Z"
     },
     {
       "title": "Military Makeover",
@@ -12339,18 +12219,6 @@
       "captureDate": "2022-11-20T14:59:58.000Z"
     },
     {
-      "title": "Gold Rush",
-      "episodeTitle": "50,000 Ounces",
-      "description": "Parker hauls Big Red into the massive Bear Cut. The team chases an epic milestone. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-11-20T14:59:58.000Z"
-    },
-    {
       "title": "The Pioneer Woman",
       "episodeTitle": "Pioneer Woman's Ultimate Thanksgiving",
       "description": "Ree Drummond hosts a three-day countdown to a frontier-style Thanksgiving dinner. Make-ahead dishes include maple-whiskey turkey; very berry cranberry sauce; Parker House rolls; mashed potatoes with shallots; and herbed cornbread for Southern dressing. Also: Ree's recipes for Brussels sprouts; and pumpkin-gingersnap cheesecake with salted caramel sauce. Copyright Rovi, Inc.",
@@ -12385,30 +12253,6 @@
       "durationMs": 10800000,
       "sizeBytes": 3093299200,
       "captureDate": "2022-11-19T19:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "50,000 Ounces",
-      "description": "Parker hauls Big Red into the massive Bear Cut as the team chases an epic milestone; Tony hits a roadblock on the Hill and taps out a honey hole; and Dustin and crew race to get divers in the Nugget Creek water before Mother Nature lands her first blow. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 11699000,
-      "sizeBytes": 3449815040,
-      "captureDate": "2022-11-19T00:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Cheat Codes",
-      "description": "Fred builds an ice dam and makes an unexpected gold discovery; Parker's team moves to Easy Street cut but gets stopped by a washed-out road; Tony tries to break through a permafrost with an excavator cheat code. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-11-18T21:59:58.000Z"
     },
     {
       "title": "Brightburn",
@@ -12577,18 +12421,6 @@
       "durationMs": 1800000,
       "sizeBytes": 492830720,
       "captureDate": "2022-11-16T00:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Fight Iron With Iron",
-      "description": "Parker fights muddy ground as he opens his biggest cut of the season and churns through Easy Street pay; Fred discovers a new paystreak that changes the course of his season; Tony gets two dozers stuck stripping to pay at the Blue and Cold Cut. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1059061760,
-      "captureDate": "2022-11-15T11:59:58.000Z"
     },
     {
       "title": "Traces",
@@ -12877,30 +12709,6 @@
       "durationMs": 8998000,
       "sizeBytes": 2569011200,
       "captureDate": "2022-10-15T19:29:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Golden Acres Prospect",
-      "description": "Parker gambles on shutting down his operation to bank big gold. The Claytons uncover rich ground. The Mikes tag team opening a new cut. Then, Fred Lewis walks Christo Doyle through the dark days that led up to landing on Gold Rush. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 8158000,
-      "sizeBytes": 4005560320,
-      "captureDate": "2022-10-14T23:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Moving Heaven and Earth",
-      "description": "Tony mobilizes an arsenal to cash in on lost gold. Fred's veteran crew fight old equipment. Rick risks his season on a hunch. Dustin breaks out the mammoth claw while Fred baptizes a greenhorn. The Dirt talks with Rick, Mitch, Dustin, and Carlos. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1772093440,
-      "captureDate": "2022-10-14T20:59:58.000Z"
     },
     {
       "title": "Christopher Kimball's Milk Street Television",
@@ -13201,30 +13009,6 @@
       "durationMs": 3599000,
       "sizeBytes": 1017118720,
       "captureDate": "2022-10-08T11:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Searching for Rick Ness",
-      "description": "Parker gets devastating news and faces off with the biggest landowner in Alaska. Rick Ness surfaces. Tony pressures the kids to deliver the first gold of the season. Fred battles the glacier blocking his gold. The Clayton brothers seek redemption. Copyright Rovi, Inc.",
-      "sourceChannel": "823",
-      "sourceStation": "TDCHD-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 10917000,
-      "sizeBytes": 5358223360,
-      "captureDate": "2022-10-08T03:59:58.000Z"
-    },
-    {
-      "title": "Gold Rush",
-      "episodeTitle": "Winter's Fortune: Into the Breach",
-      "description": "Tony Beets finally learns the fate of his Indian River claims pivotal to his 9000-ounce season. Fred Lewis tracks down virgin ground and is shocked by what he finds. Rick Ness gets a jump on the season with a massive Komatsu dozer. Copyright Rovi, Inc.",
-      "sourceChannel": "39",
-      "sourceStation": "TDC-E",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1069547520,
-      "captureDate": "2022-10-07T11:59:58.000Z"
     },
     {
       "title": "Christopher Kimball's Milk Street Television",
