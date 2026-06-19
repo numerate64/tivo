@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-19T16:30:17.244Z",
-  "sourceUpdatedAt": "2026-06-19T16:30:17.174Z",
-  "sourceCacheUpdatedAt": "2026-06-19T16:30:17.174Z",
+  "updatedAt": "2026-06-19T17:00:26.183Z",
+  "sourceUpdatedAt": "2026-06-19T17:00:26.109Z",
+  "sourceCacheUpdatedAt": "2026-06-19T17:00:26.109Z",
   "source": "Local TiVo API",
-  "totalItems": 1594,
-  "loadedItems": 1594,
+  "totalItems": 1572,
+  "loadedItems": 1572,
   "cached": false,
   "storage": {
-    "usedBytes": 3723650662400,
+    "usedBytes": 3693598474240,
     "totalBytes": 6597069766656,
-    "availableBytes": 2873419104256,
+    "availableBytes": 2903471292416,
     "knownTotal": true
   },
   "shows": [
@@ -10227,18 +10227,6 @@
       "captureDate": "2023-01-19T02:29:58.000Z"
     },
     {
-      "title": "Ready or Not",
-      "episodeTitle": "",
-      "description": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game. Copyright Rovi, Inc.",
-      "sourceChannel": "924",
-      "sourceStation": "FXXHD-E",
-      "rating": "R",
-      "isSuggestion": true,
-      "durationMs": 7200000,
-      "sizeBytes": 3586129920,
-      "captureDate": "2023-01-14T11:59:58.000Z"
-    },
-    {
       "title": "FBI: International",
       "episodeTitle": "BHITW",
       "description": "When an American basketball player for a Lithuanian team goes into cardiac arrest, the team investigates along with Zoey McKenna, the new agent appointed by Dandridge. Copyright Rovi, Inc.",
@@ -10311,18 +10299,6 @@
       "captureDate": "2023-01-07T19:29:58.000Z"
     },
     {
-      "title": "Without a Trace",
-      "episodeTitle": "The Source",
-      "description": "A TV journalist (April Grace) whom Jack knows vanishes the night her station airs her story about a heroin dealer (Christian Camargo) who ordered a murder. Jack's team thinks the reporter's source may have some answers regarding her whereabouts. Meanwhile, things get personal for Jack when the prime suspect threatens his wife (Talia Balsam) and daughters. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3589000,
-      "sizeBytes": 1038090240,
-      "captureDate": "2023-01-07T18:59:58.000Z"
-    },
-    {
       "title": "The Departed",
       "episodeTitle": "",
       "description": "Martin Scorsese won a long-awaited Best Director Oscar for this crime epic, about an undercover cop who infiltrates a Boston mob crew that has a mole in the state police department. Copyright Rovi, Inc.",
@@ -10333,42 +10309,6 @@
       "durationMs": 12598000,
       "sizeBytes": 6050283520,
       "captureDate": "2023-01-07T18:44:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Kam Li",
-      "description": "A highly decorated Army officer (Steve Eastin) with 34 years of service disappears after his retirement dinner, leaving his dress uniform, medals and an empty gun holster in his hotel room. Sykes: William Sanderson. Aybar: Ernie Hudson. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Danny: Enrique Murciano. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3590000,
-      "sizeBytes": 1038090240,
-      "captureDate": "2023-01-07T17:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Clare de Lune",
-      "description": "A 16-year-old girl vanishes from a locked room in a psychiatric hospital, and it appears she may have escaped with the participation of a staff member. The team learns of a troubling incident from her past that may hold the key to her disappearance. Samantha: Poppy Montgomery. Vivian: Marianne Jean-Baptiste. Jack: Anthony LaPaglia. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1121976320,
-      "captureDate": "2023-01-07T16:59:59.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "The Friendly Skies",
-      "description": "Jack and his team investigate the disappearance of a flight attendant (Heather Donahue) who may have been having a relationship with a pilot. Dr. Morrison: Tim Matheson. Patti: Sarah Rafferty. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3600000,
-      "sizeBytes": 1121976320,
-      "captureDate": "2023-01-06T17:59:58.000Z"
     },
     {
       "title": "The Legend of Tarzan",
@@ -10417,18 +10357,6 @@
       "durationMs": 1799000,
       "sizeBytes": 597688320,
       "captureDate": "2023-01-05T20:59:59.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Maple Street",
-      "description": "A 13-year-old girl disappears on her way to school and the only clue is her discarded video camera found on a road in the opposite direction of the school. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Vivian: Marianne Jean-Baptiste. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1132462080,
-      "captureDate": "2023-01-05T17:59:58.000Z"
     },
     {
       "title": "Scorpion",
@@ -10659,18 +10587,6 @@
       "captureDate": "2023-01-03T20:59:58.000Z"
     },
     {
-      "title": "Without a Trace",
-      "episodeTitle": "Suspect",
-      "description": "A 17-year-old vanishes from his private-school campus and the head of the school (Conor O'Farrell) may be involved. Patrick: Blake Bashoff. Andy: Jared Hillman. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3600000,
-      "sizeBytes": 1142947840,
-      "captureDate": "2023-01-03T17:59:58.000Z"
-    },
-    {
       "title": "Brooklyn Nine-Nine",
       "episodeTitle": "Sal's Pizza",
       "description": "A local pizza place burns down and the fire marshal (Patton Oswalt) rashly pins blame on the owner, prompting Jake to pull out all the stops to prove him wrong. Meanwhile, a computer virus at the precinct shares everyone's browser history. Copyright Rovi, Inc.",
@@ -10743,18 +10659,6 @@
       "captureDate": "2023-01-02T08:59:58.000Z"
     },
     {
-      "title": "Without a Trace",
-      "episodeTitle": "There Goes the Bride",
-      "description": "A bride disappears at her own wedding and suspicions of kidnapping fall on the guests in attendance. Meanwhile, the team explores the relationship between the newlyweds, who were raised together for a short time. Jack: Anthony LaPaglia. Vivian: Marianne Jean-Baptiste. Danny: Enrique Murciano. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3599000,
-      "sizeBytes": 1121976320,
-      "captureDate": "2023-01-02T06:59:59.000Z"
-    },
-    {
       "title": "Last Man Standing",
       "episodeTitle": "The Help",
       "description": "The Baxters' hiring of a new housekeeper brings with it questions of immigration, which ultimately lead Ed to check the green-card status of employees at Outdoor Man. Meanwhile, Kristin comes up with a clever moneymaking plan. Copyright Rovi, Inc.",
@@ -10779,18 +10683,6 @@
       "captureDate": "2023-01-02T05:29:58.000Z"
     },
     {
-      "title": "Without a Trace",
-      "episodeTitle": "Hang On to Me",
-      "description": "A man who has been searching for his missing son for the last six years disappears himself, leaving his wedding ring and a mountain of debt behind. Vivian: Marianne Jean-Baptiste. Danny: Enrique Murciano. Martin: Eric Close. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3593000,
-      "sizeBytes": 1132462080,
-      "captureDate": "2023-01-02T04:59:59.000Z"
-    },
-    {
       "title": "Last Man Standing",
       "episodeTitle": "Mother Fracker",
       "description": "After Vanessa's disastrous presentation at career day, Eve insists that her mother resign from her environmentally irresponsible company. Mike defends Vanessa, but Eve won't back down. Copyright Rovi, Inc.",
@@ -10803,30 +10695,6 @@
       "captureDate": "2023-01-02T03:59:58.000Z"
     },
     {
-      "title": "Without a Trace",
-      "episodeTitle": "Underground Railroad",
-      "description": "Jack and his team search for a missing pregnant woman (Nicole DeHuff) who has a medical condition that could lead to her death if she's not found within 24 hours. The investigation unearths an illegal, though benevolent, group that has the expectant mother in protective care. But if its members divulge her whereabouts, they risk exposure. Paul Dobson: Jeffrey Pierce. Mary Kandel: Natalija Nogulich. Dianne: Damara Reilly. Susan Posi: Mary Kay Wulf. Michael Posi: Steve Ryan. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3598000,
-      "sizeBytes": 1059061760,
-      "captureDate": "2023-01-02T03:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Midnight Sun",
-      "description": "A man leaves home in the morning with his 6-year-old daughter, planning to take her to school and to open his dry-cleaning store, but they both vanish. Samantha: Poppy Montgomery. Jack: Anthony LaPaglia. Martin: Eric Close. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3592000,
-      "sizeBytes": 1090519040,
-      "captureDate": "2023-01-02T01:59:59.000Z"
-    },
-    {
       "title": "Last Man Standing",
       "episodeTitle": "The Spotlight",
       "description": "Vanessa is acknowledged for her volunteer efforts, but her good news is overshadowed by Mike, who then tries to remedy the situation. Meanwhile, Eve becomes apprehensive about starting high school; and Ed wants to use Mike as a model for an Outdoor Man figurine. Copyright Rovi, Inc.",
@@ -10837,102 +10705,6 @@
       "durationMs": 1798000,
       "sizeBytes": 503316480,
       "captureDate": "2023-01-02T00:59:59.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "In Extremis",
-      "description": "A doctor (Dariush Kashani) of Saudi Arabian descent with an exemplary record mysteriously vanishes, and Martin (Eric Close) is quick to suspect the man of being a terrorist. Kamal: Ammar Daraiseh. Abner: John Finn. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Danny: Enrique Murciano. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3592000,
-      "sizeBytes": 1059061760,
-      "captureDate": "2023-01-02T00:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Little Big Man",
-      "description": "A 16-year-old foster child vanishes after leaving his job to go home. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Vivian: Marianne Jean-Baptiste. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3591000,
-      "sizeBytes": 1080033280,
-      "captureDate": "2023-01-01T23:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Snatch Back",
-      "description": "The team investigates when the child of a prominent assistant district attorney (Marin Hinkle) vanishes in a public park. There are several suspects, but not enough evidence for the team to set up its customary timeline. Matthew: John Mese. Rosa: Melody Butiu. Clarissa: Elizabeth Banks. Zoe: Jessa French. Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3590000,
-      "sizeBytes": 1111490560,
-      "captureDate": "2023-01-01T22:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Silent Partner",
-      "description": "Jack and his team investigate the disappearance of the VP (Erich Anderson) of an investment-banking firm who vanished at a San Diego airport and left behind two empty suitcases. Katherine: Colleen Flynn. Noah Ridder: Philip Baker Hall. Amalia: Angela Alvarado. Danny: Enrique Murciano. Martin: Eric Close Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1069547520,
-      "captureDate": "2023-01-01T21:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Between the Cracks",
-      "description": "The team investigates the disappearance of a 19-year-old aspiring model (Kaitlin Doubleday) who left a half-packed suitcase on the bed in her apartment. Chet: Charles S. Dutton. Rina: Benita Krista Nall. Jack: Anthony LaPaglia. Samantha: Poppy Montgomery. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3592000,
-      "sizeBytes": 1069547520,
-      "captureDate": "2023-01-01T19:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "He Saw, She Saw",
-      "description": "Four witnesses claim that a woman was abducted from a mall parking lot while her husband was standing just yards away with his back to her. Samantha: Poppy Montgomery. Jack: Anthony LaPaglia. Martin: Eric Close. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3590000,
-      "sizeBytes": 1080033280,
-      "captureDate": "2023-01-01T18:59:59.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Birthday Boy",
-      "description": "When a father takes his son to a baseball game for his 11th birthday, the boy inadvertently gets on a subway car without his dad and vanishes. As the case progresses, investigators learn the boy may have wanted to disappear. Samantha: Poppy Montgomery. Jack: Anthony LaPaglia. Martin: Eric Close. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3591000,
-      "sizeBytes": 1184890880,
-      "captureDate": "2023-01-01T17:59:58.000Z"
-    },
-    {
-      "title": "Without a Trace",
-      "episodeTitle": "Pilot",
-      "description": "The team investigates the disappearance of a single professional woman (Arija Bareikis), who has been missing for 38 hours. Paul Cartwright: Bruce Davison. Bart: Bradford Tatum. Samantha: Poppy Montgomery. Martin: Eric Close. Danny: Enrique Murciano. Copyright Rovi, Inc.",
-      "sourceChannel": "290",
-      "sourceStation": "WJARDT2",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1090519040,
-      "captureDate": "2023-01-01T16:59:58.000Z"
     },
     {
       "title": "Last Man Standing",
@@ -12183,18 +11955,6 @@
       "captureDate": "2022-11-23T00:59:58.000Z"
     },
     {
-      "title": "First Home Fix",
-      "episodeTitle": "Hodgepodge Reno Fix",
-      "description": "The team work on a home that has undergone several renovations and additions in the past. The challenge is to make the different parts work together and achieve full functionality. Copyright Rovi, Inc.",
-      "sourceChannel": "32",
-      "sourceStation": "HGTV-E",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 3602000,
-      "sizeBytes": 1059061760,
-      "captureDate": "2022-11-22T11:59:58.000Z"
-    },
-    {
       "title": "Christopher Kimball's Milk Street Television",
       "episodeTitle": "Stir-Fry Favorites",
       "description": "Rayna Jhaveri makes Goan-Style Chili-Fry with Beef, Tomatoes and Potatoes, a dish that fuses ingredients, flavors and techniques from different parts of the world. Then, Sam Fore prepares Thai-Style Vegetable Stir-Fry with Garlic and Black Pepper and Lynn Clark makes crispy Salt and Pepper Tofu. Copyright Rovi, Inc.",
@@ -12253,18 +12013,6 @@
       "durationMs": 1799000,
       "sizeBytes": 912261120,
       "captureDate": "2022-11-19T20:59:58.000Z"
-    },
-    {
-      "title": "Knives Out",
-      "episodeTitle": "",
-      "description": "Una fiesta familiar tiene un final inesperado y trágico cuando muere uno de los invitados. Más tarde, dos detectives son asignados para llevar a cabo la investigación y búsqueda de pistas que los ayuden a obtener al responsable del crimen. No obstante, resolver el caso no parece una tarea fácil. Copyright Rovi, Inc.",
-      "sourceChannel": "740",
-      "sourceStation": "WRIW-CA",
-      "rating": "PG-13",
-      "isSuggestion": true,
-      "durationMs": 10800000,
-      "sizeBytes": 3093299200,
-      "captureDate": "2022-11-19T19:59:58.000Z"
     },
     {
       "title": "Brightburn",
@@ -12709,18 +12457,6 @@
       "durationMs": 1797000,
       "sizeBytes": 901775360,
       "captureDate": "2022-10-15T19:59:58.000Z"
-    },
-    {
-      "title": "Loving Pablo",
-      "episodeTitle": "",
-      "description": "La periodista colombiana Virginia Vallejo mantuvo una relación amorosa en la década de los 80 con Pablo Escobar, el famoso narcotraficante. Ésta es su historia, con todas sus luces y sus sombras, el lado más humano del delincuente, pero también el más cruel y duro. Copyright Rovi, Inc.",
-      "sourceChannel": "740",
-      "sourceStation": "WRIW-CA",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 8998000,
-      "sizeBytes": 2569011200,
-      "captureDate": "2022-10-15T19:29:58.000Z"
     },
     {
       "title": "Christopher Kimball's Milk Street Television",
