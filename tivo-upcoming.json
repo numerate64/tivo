@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-20T14:30:18.807Z",
-  "sourceUpdatedAt": "2026-06-20T14:30:02.568Z",
-  "sourceCacheUpdatedAt": "2026-06-20T14:30:02.568Z",
+  "updatedAt": "2026-06-20T15:00:22.561Z",
+  "sourceUpdatedAt": "2026-06-20T15:00:01.746Z",
+  "sourceCacheUpdatedAt": "2026-06-20T15:00:01.746Z",
   "source": "Local TiVo API",
-  "totalItems": 6,
-  "loadedItems": 6,
+  "totalItems": 8,
+  "loadedItems": 8,
   "cached": false,
   "shows": [
     {
@@ -32,6 +32,32 @@
       "durationMs": 11400000,
       "scheduledStartTime": "2026-06-23T16:50:00.000Z",
       "scheduledEndTime": "2026-06-23T20:00:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Cape Verde vs. Saudi Arabia",
+      "description": "Cape Verde vs. Saudi Arabia in a Group H match in Houston, Texas.",
+      "sourceChannel": "1208",
+      "sourceStation": "FS1HD",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 11400000,
+      "scheduledStartTime": "2026-06-26T23:50:00.000Z",
+      "scheduledEndTime": "2026-06-27T03:00:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Colombia vs. Portugal",
+      "description": "Colombia vs. Portugal in a Group K match in Miami, Fla.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 11400000,
+      "scheduledStartTime": "2026-06-27T23:20:00.000Z",
+      "scheduledEndTime": "2026-06-28T02:30:00.000Z",
       "isInProgress": false
     },
     {
