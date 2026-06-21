@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-21T22:00:19.150Z",
-  "sourceUpdatedAt": "2026-06-21T22:00:19.085Z",
-  "sourceCacheUpdatedAt": "2026-06-21T22:00:19.085Z",
+  "updatedAt": "2026-06-21T22:30:29.572Z",
+  "sourceUpdatedAt": "2026-06-21T22:30:29.501Z",
+  "sourceCacheUpdatedAt": "2026-06-21T22:30:29.501Z",
   "source": "Local TiVo API",
   "totalItems": 1573,
   "loadedItems": 1573,
   "cached": false,
   "storage": {
-    "usedBytes": 3692969328640,
+    "usedBytes": 3694007418880,
     "totalBytes": 6597069766656,
-    "availableBytes": 2904100438016,
+    "availableBytes": 2903062347776,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "FS1HD",
       "rating": "",
       "isSuggestion": false,
-      "durationMs": 343000,
-      "sizeBytes": 692060160,
+      "durationMs": 2087000,
+      "sizeBytes": 1730150400,
       "captureDate": "2026-06-21T21:49:58.000Z"
     },
     {
