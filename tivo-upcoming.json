@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-21T21:30:23.750Z",
-  "sourceUpdatedAt": "2026-06-21T21:30:01.944Z",
-  "sourceCacheUpdatedAt": "2026-06-21T21:30:01.944Z",
+  "updatedAt": "2026-06-21T22:00:19.151Z",
+  "sourceUpdatedAt": "2026-06-21T22:00:02.534Z",
+  "sourceCacheUpdatedAt": "2026-06-21T22:00:02.534Z",
   "source": "Local TiVo API",
   "totalItems": 12,
   "loadedItems": 12,
@@ -15,11 +15,11 @@
       "sourceChannel": "1208",
       "sourceStation": "FS1HD",
       "rating": "",
-      "state": "scheduled",
-      "durationMs": 11400000,
+      "state": "inProgress",
+      "durationMs": 525000,
       "scheduledStartTime": "2026-06-21T21:50:00.000Z",
       "scheduledEndTime": "2026-06-22T01:00:00.000Z",
-      "isInProgress": false
+      "isInProgress": true
     },
     {
       "title": "2026 FIFA World Cup",

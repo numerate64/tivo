@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-21T21:30:23.750Z",
-  "sourceUpdatedAt": "2026-06-21T21:30:23.672Z",
-  "sourceCacheUpdatedAt": "2026-06-21T21:30:23.672Z",
+  "updatedAt": "2026-06-21T22:00:19.150Z",
+  "sourceUpdatedAt": "2026-06-21T22:00:19.085Z",
+  "sourceCacheUpdatedAt": "2026-06-21T22:00:19.085Z",
   "source": "Local TiVo API",
-  "totalItems": 1572,
-  "loadedItems": 1572,
+  "totalItems": 1573,
+  "loadedItems": 1573,
   "cached": false,
   "storage": {
-    "usedBytes": 3693598474240,
+    "usedBytes": 3692969328640,
     "totalBytes": 6597069766656,
-    "availableBytes": 2903471292416,
+    "availableBytes": 2904100438016,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Uruguay vs. Cape Verde",
+      "description": "Uruguay vs. Cape Verde in a Group H match in Miami, Fla. The only debuting nation to earn a point in its opener, Cape Verde and 40-year-old goalkeeper Vozinha (seven saves) try to follow up their historic 0-0 draw vs. mighty Spain. Uruguay poses quite the threat as well, but only got one (by Maxi Araujo) of its 10 shots on goal past Saudi Arabia in a 1-1 opening stalemate. Copyright Rovi, Inc.",
+      "sourceChannel": "1208",
+      "sourceStation": "FS1HD",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 343000,
+      "sizeBytes": 692060160,
+      "captureDate": "2026-06-21T21:49:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Portugal vs. DR Congo",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-07T01:59:58.000Z"
     },
     {
-      "title": "Tracker",
-      "episodeTitle": "No Good Deed",
-      "description": "Randy enlists Colter's help when one of his closest friends vanishes while under house arrest. Copyright Rovi, Inc.",
-      "sourceChannel": "1004",
-      "sourceStation": "WBZDT",
+      "title": "The Rookie",
+      "episodeTitle": "Tiger Bear",
+      "description": "A troubling incident at a school draws the team into a complex case, while Celina's temporary missing persons assignment leads her into a dangerous situation. Copyright Rovi, Inc.",
+      "sourceChannel": "1005",
+      "sourceStation": "WCVBDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 5400000,
-      "sizeBytes": 4519362560,
-      "captureDate": "2026-04-06T00:59:58.000Z"
+      "durationMs": 3779000,
+      "sizeBytes": 3198156800,
+      "captureDate": "2026-04-07T01:59:58.000Z"
     },
     {
       "title": "Tracker",
