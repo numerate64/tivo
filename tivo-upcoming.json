@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-22T01:00:21.365Z",
-  "sourceUpdatedAt": "2026-06-22T01:00:02.222Z",
-  "sourceCacheUpdatedAt": "2026-06-22T01:00:02.222Z",
+  "updatedAt": "2026-06-22T01:30:19.526Z",
+  "sourceUpdatedAt": "2026-06-22T01:30:01.582Z",
+  "sourceCacheUpdatedAt": "2026-06-22T01:30:01.582Z",
   "source": "Local TiVo API",
-  "totalItems": 12,
-  "loadedItems": 12,
+  "totalItems": 11,
+  "loadedItems": 11,
   "cached": false,
   "shows": [
-    {
-      "title": "2026 FIFA World Cup",
-      "episodeTitle": "Uruguay vs. Cape Verde",
-      "description": "Uruguay vs. Cape Verde in a Group H match in Miami, Fla. The only debuting nation to earn a point in its opener, Cape Verde and 40-year-old goalkeeper Vozinha (seven saves) try to follow up their historic 0-0 draw vs. mighty Spain. Uruguay poses quite the threat as well, but only got one (by Maxi Araujo) of its 10 shots on goal past Saudi Arabia in a 1-1 opening stalemate.",
-      "sourceChannel": "1208",
-      "sourceStation": "FS1HD",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 11234000,
-      "scheduledStartTime": "2026-06-21T21:50:00.000Z",
-      "scheduledEndTime": "2026-06-22T01:00:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Portugal vs. Uzbekistan",
