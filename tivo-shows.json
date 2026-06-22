@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-22T13:30:31.070Z",
-  "sourceUpdatedAt": "2026-06-22T13:30:31.004Z",
-  "sourceCacheUpdatedAt": "2026-06-22T13:30:31.004Z",
+  "updatedAt": "2026-06-22T14:00:19.824Z",
+  "sourceUpdatedAt": "2026-06-22T14:00:19.760Z",
+  "sourceCacheUpdatedAt": "2026-06-22T14:00:19.760Z",
   "source": "Local TiVo API",
-  "totalItems": 1555,
-  "loadedItems": 1555,
+  "totalItems": 1547,
+  "loadedItems": 1547,
   "cached": false,
   "storage": {
-    "usedBytes": 3688082964480,
+    "usedBytes": 3683385344000,
     "totalBytes": 6597069766656,
-    "availableBytes": 2908986802176,
+    "availableBytes": 2913684422656,
     "knownTotal": true
   },
   "shows": [
@@ -10539,78 +10539,6 @@
       "captureDate": "2023-01-02T05:29:58.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "Free Range Parents",
-      "description": "Mike wants Boyd to walk home from school on his own, but Ryan's hesitant to allow this. Meanwhile, Ed and Kyle host a meeting for folks preparing for doomsday; and Eve and Mandy try to keep Vanessa in the dark about something. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1796000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-01T08:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "The Wolf Returns",
-      "description": "In the fifth-season opener, Mike returns from a long road trip and finds life very hectic at home and at work. Meanwhile, a tornado is headed for town. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1796000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-01T08:29:59.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Daddy Dearest",
-      "description": "In the fourth-season finale, Ryan reunites with his ill father on a hunting trip, but then his dad reveals he's been dishonest. Meanwhile, Vanessa desperately tries to get more relatives to come to Kristin and Ryan's wedding. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1797000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-01T07:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Larabee for School Board",
-      "description": "Mike doesn't support his neighbor's bid for election to the school board, which makes him a likely suspect in the mystery of her missing campaign signs. Elsewhere, Eve's sisters give her contradictory advice on romance; and Kyle gets jealous of Ryan. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 576716800,
-      "captureDate": "2022-12-31T21:29:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Ryan v. John Baker",
-      "description": "Kristin compares laid-back Ryan to her industrious boss, and Ryan comes up short as he remains on strike from his job. Elsewhere, Mike and Eve try to catch one another off guard as Eve works on her sniper training. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1799000,
-      "sizeBytes": 566231040,
-      "captureDate": "2022-12-31T20:59:58.000Z"
-    },
-    {
-      "title": "Diners, Drive-Ins and Dives",
-      "episodeTitle": "Big Breakfast",
-      "description": "Spotlighting a New Jersey diner with more than 30 kinds of pancakes; a breakfast joint in Phoenix with homemade waffles; and an eatery with 60 different omelets in Kansas City, Mo. Copyright Rovi, Inc.",
-      "sourceChannel": "854",
-      "sourceStation": "FOODHD-E",
-      "rating": "TV-G",
-      "isSuggestion": true,
-      "durationMs": 1797000,
-      "sizeBytes": 838860800,
-      "captureDate": "2022-12-31T17:59:58.000Z"
-    },
-    {
       "title": "Alma's Way",
       "episodeTitle": "Checkers Champ; World's Greatest",
       "description": "Alma helps Andre with his preparations for the checkers tournament; Alma and Rafia are on a race for the World's Greatest Artist title. Copyright Rovi, Inc.",
@@ -10621,30 +10549,6 @@
       "durationMs": 1801000,
       "sizeBytes": 503316480,
       "captureDate": "2022-12-30T22:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Pledging",
-      "description": "Vanessa encourages Mandy to join a sorority, which could lead to the end of her romance with Kyle. Elsewhere, Ed pretends to be a loading-dock employee in order to investigate productivity problems. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 597688320,
-      "captureDate": "2022-12-30T21:29:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Driving Lessons",
-      "description": "Mike encourages Vanessa to bond with Eve by teaching Eve how to drive. Elsewhere, Mandy wants Mike to stop giving Kyle projects to work on around the house. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1797000,
-      "sizeBytes": 608174080,
-      "captureDate": "2022-12-30T20:59:58.000Z"
     },
     {
       "title": "Brooklyn Nine-Nine",
