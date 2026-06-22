@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-22T13:00:19.516Z",
-  "sourceUpdatedAt": "2026-06-22T13:00:19.456Z",
-  "sourceCacheUpdatedAt": "2026-06-22T13:00:19.456Z",
+  "updatedAt": "2026-06-22T13:30:31.070Z",
+  "sourceUpdatedAt": "2026-06-22T13:30:31.004Z",
+  "sourceCacheUpdatedAt": "2026-06-22T13:30:31.004Z",
   "source": "Local TiVo API",
-  "totalItems": 1573,
-  "loadedItems": 1573,
+  "totalItems": 1555,
+  "loadedItems": 1555,
   "cached": false,
   "storage": {
-    "usedBytes": 3698285608960,
+    "usedBytes": 3688082964480,
     "totalBytes": 6597069766656,
-    "availableBytes": 2898784157696,
+    "availableBytes": 2908986802176,
     "knownTotal": true
   },
   "shows": [
@@ -10335,42 +10335,6 @@
       "captureDate": "2023-01-06T02:04:58.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "Animal Wrongs",
-      "description": "Mandy dates an animal-rights supporter, who doesn't see eye to eye with hunting enthusiast Mike. Elsewhere, Kyle and Ed bond over their newly discovered shared heritage. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 513802240,
-      "captureDate": "2023-01-06T01:29:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Stud Muffin",
-      "description": "Chuck's dog gets pregnant by the Baxters' canine, and Chuck is displeased about his purebred German shepherd delivering a litter of mutts. Meanwhile, Mandy hits a parked car, and Eve feels compelled to leave a note. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 618659840,
-      "captureDate": "2023-01-05T21:29:59.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Tasers",
-      "description": "Roses arrive anonymously at the Baxter home on Valentine's Day, and there are several suspects. However, Mike is not among them, because he gifts Vanessa with a Taser. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1799000,
-      "sizeBytes": 597688320,
-      "captureDate": "2023-01-05T20:59:59.000Z"
-    },
-    {
       "title": "Scorpion",
       "episodeTitle": "Sharknerdo",
       "description": "Walter and Paige end up stranded in the Pacific Ocean surrounded by sharks after their boat explodes during the team's mission to locate sunken treasure. Copyright Rovi, Inc.",
@@ -10393,18 +10357,6 @@
       "durationMs": 3597000,
       "sizeBytes": 1342177280,
       "captureDate": "2023-01-05T04:00:00.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Baxter & Sons",
-      "description": "Mike's father and brother arrive in town and want to bid on constructing a new Outdoor Man store, reigniting a sibling rivalry between the brothers. Meanwhile, the girls help their grandfather enter the world of online dating. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1795000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-05T03:29:59.000Z"
     },
     {
       "title": "Chicago Med",
@@ -10467,18 +10419,6 @@
       "captureDate": "2023-01-04T22:00:00.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "Renaming Boyd's School",
-      "description": "Boyd's school may undergo a name change following Boyd's eye-opening report on its namesake. Elsewhere, Mandy turns to Blanca for assistance with a class project. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 608174080,
-      "captureDate": "2023-01-04T21:29:58.000Z"
-    },
-    {
       "title": "Scorpion",
       "episodeTitle": "We're Gonna Need a Bigger Vote",
       "description": "The team must stop someone who tries to intervene in the U.S. presidential election on Election Day. Copyright Rovi, Inc.",
@@ -10488,18 +10428,6 @@
       "isSuggestion": true,
       "durationMs": 3594000,
       "sizeBytes": 1310720000,
-      "captureDate": "2023-01-04T21:00:00.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Breaking Boyd",
-      "description": "Boyd acts restless at school, prompting his teacher to recommend ADHD medication for him. Elsewhere, Mandy turns a new leaf regarding schoolwork and devotes a significant amount of time to studying. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1796000,
-      "sizeBytes": 608174080,
       "captureDate": "2023-01-04T21:00:00.000Z"
     },
     {
@@ -10551,18 +10479,6 @@
       "captureDate": "2023-01-04T12:23:58.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "Last Christmas Standing",
-      "description": "Boyd's father, played by Nick Jonas, returns unexpectedly, which troubles Mike and Kyle; and Mandy is hired by Ed to be an elf at the shop, and she organizes the other elves to demand perks. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 513802240,
-      "captureDate": "2023-01-04T02:29:58.000Z"
-    },
-    {
       "title": "FBI: International",
       "episodeTitle": "Wheelman",
       "description": "The Fly Team races through the streets of Budapest to halt a major art heist about to be perpetrated by an American. Also, Forrester grows angry as Dandridge watches every move the team makes. Copyright Rovi, Inc.",
@@ -10575,30 +10491,6 @@
       "captureDate": "2023-01-04T01:59:59.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "All About Eve",
-      "description": "Eve posts Mike's video blog on her social-media page and her classmates balk at his views, but she stands by her dad. Meanwhile, the Baxters land in hot water when a local cop patrols the area. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1801000,
-      "sizeBytes": 608174080,
-      "captureDate": "2023-01-03T21:29:59.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Spanking",
-      "description": "Bud's harsh method of disciplining Boyd doesn't sit well with Kristin, Ryan and—to Bud's surprise—Mike. Elsewhere, Mandy buys a new hat for Kyle, and he's confused by the meaning behind this gift. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 587202560,
-      "captureDate": "2023-01-03T20:59:58.000Z"
-    },
-    {
       "title": "Brooklyn Nine-Nine",
       "episodeTitle": "Sal's Pizza",
       "description": "A local pizza place burns down and the fire marshal (Patton Oswalt) rashly pins blame on the owner, prompting Jake to pull out all the stops to prove him wrong. Meanwhile, a computer virus at the precinct shares everyone's browser history. Copyright Rovi, Inc.",
@@ -10609,18 +10501,6 @@
       "durationMs": 1439000,
       "sizeBytes": 408944640,
       "captureDate": "2023-01-03T12:23:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Vanessa Fixes Kyle",
-      "description": "Vanessa persuades Mandy to dump Kyle, but then she regrets meddling and tries to repair things, doing even more harm in the process. Copyright Rovi, Inc.",
-      "sourceChannel": "18",
-      "sourceStation": "WLVI",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 639631360,
-      "captureDate": "2023-01-02T21:29:58.000Z"
     },
     {
       "title": "Brooklyn Nine-Nine",
@@ -10647,42 +10527,6 @@
       "captureDate": "2023-01-02T11:59:58.000Z"
     },
     {
-      "title": "Last Man Standing",
-      "episodeTitle": "The Gratitude List",
-      "description": "A downsized Thanksgiving is celebrated by the Baxters because Kristin and Mandy can't be there. Meanwhile, Eve's decision to skip a beloved tradition saddens Vanessa; and Kristin learns that Mandy's not being honest about her Thanksgiving plans. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1796000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-02T09:29:59.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "The Road Less Driven",
-      "description": "Mike gets a classic car as a birthday present from his family, but he doesn't get much alone time with his car because its former owner keeps stopping by. Meanwhile, Mandy thinks it's unfair when Vanessa gives Eve permission to go to a music festival. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-02T08:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "The Help",
-      "description": "The Baxters' hiring of a new housekeeper brings with it questions of immigration, which ultimately lead Ed to check the green-card status of employees at Outdoor Man. Meanwhile, Kristin comes up with a clever moneymaking plan. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1797000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-02T06:29:58.000Z"
-    },
-    {
       "title": "The Good Doctor",
       "episodeTitle": "Pain",
       "description": "When the team treats a patient who has to decide between a dangerous surgery that could change his life or remain the same, he asks Dr. Shaun Murphy what he would if he had that same choice. Copyright Rovi, Inc.",
@@ -10693,66 +10537,6 @@
       "durationMs": 3599000,
       "sizeBytes": 1929379840,
       "captureDate": "2023-01-02T05:29:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Mother Fracker",
-      "description": "After Vanessa's disastrous presentation at career day, Eve insists that her mother resign from her environmentally irresponsible company. Mike defends Vanessa, but Eve won't back down. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-02T03:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "The Spotlight",
-      "description": "Vanessa is acknowledged for her volunteer efforts, but her good news is overshadowed by Mike, who then tries to remedy the situation. Meanwhile, Eve becomes apprehensive about starting high school; and Ed wants to use Mike as a model for an Outdoor Man figurine. Copyright Rovi, Inc.",
-      "sourceChannel": "235",
-      "sourceStation": "UP",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-02T00:59:59.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Pilot",
-      "description": "Manly man Mike Baxter decides to spend more time at home with his three daughters when, in the opener, his time on the road creating a catalog as marketing director for a sporting-goods store is reduced and his wife gets a promotion. Copyright Rovi, Inc.",
-      "sourceChannel": "908",
-      "sourceStation": "UPHD",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 880803840,
-      "captureDate": "2023-01-01T13:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Mike Advises Mandy",
-      "description": "Mike gives Mandy tips about her online clothing company by suggesting she set aside money for taxes, but she has a different plan: She opens a pop-up store at her grandfather's marijuana shop. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1798000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-01T13:59:58.000Z"
-    },
-    {
-      "title": "Last Man Standing",
-      "episodeTitle": "Halloween",
-      "description": "Vanessa and Carol prank their husbands after the men skip out on giving out Halloween candy in favor of watching football. Elsewhere, Kyle dons an Ed costume because he considers Ed his hero, but Ed has an unexpected reaction to this. Copyright Rovi, Inc.",
-      "sourceChannel": "124",
-      "sourceStation": "NEWSNTN",
-      "rating": "TV-PG",
-      "isSuggestion": true,
-      "durationMs": 1795000,
-      "sizeBytes": 503316480,
-      "captureDate": "2023-01-01T09:29:58.000Z"
     },
     {
       "title": "Last Man Standing",
