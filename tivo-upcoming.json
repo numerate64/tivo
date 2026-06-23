@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-23T20:00:22.607Z",
-  "sourceUpdatedAt": "2026-06-23T20:00:02.333Z",
-  "sourceCacheUpdatedAt": "2026-06-23T20:00:02.333Z",
+  "updatedAt": "2026-06-23T20:30:24.383Z",
+  "sourceUpdatedAt": "2026-06-23T20:30:02.396Z",
+  "sourceCacheUpdatedAt": "2026-06-23T20:30:02.396Z",
   "source": "Local TiVo API",
-  "totalItems": 15,
-  "loadedItems": 15,
+  "totalItems": 14,
+  "loadedItems": 14,
   "cached": false,
   "shows": [
-    {
-      "title": "2026 FIFA World Cup",
-      "episodeTitle": "Portugal vs. Uzbekistan",
-      "description": "Portugal vs. Uzbekistan in a Group K match in Houston, Texas. Cristiano Ronaldo and Portugal look to make up ground in the group after a lackluster 1-1 draw with DR Congo to open, with the 42-year-old legend managing only 25 touches (and three wayward shots). Uzbekistan goalkeeper Utkir Yusupov should be tested again after letting three of four on-target shots find the net vs. Colombia.",
-      "sourceChannel": "1064",
-      "sourceStation": "WNACDT",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 11236000,
-      "scheduledStartTime": "2026-06-23T16:50:00.000Z",
-      "scheduledEndTime": "2026-06-23T20:00:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Cape Verde vs. Saudi Arabia",
