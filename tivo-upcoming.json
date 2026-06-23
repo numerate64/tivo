@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-23T16:30:19.878Z",
-  "sourceUpdatedAt": "2026-06-23T16:30:02.149Z",
-  "sourceCacheUpdatedAt": "2026-06-23T16:30:02.149Z",
+  "updatedAt": "2026-06-23T17:00:25.590Z",
+  "sourceUpdatedAt": "2026-06-23T17:00:02.331Z",
+  "sourceCacheUpdatedAt": "2026-06-23T17:00:02.331Z",
   "source": "Local TiVo API",
   "totalItems": 15,
   "loadedItems": 15,
@@ -15,11 +15,11 @@
       "sourceChannel": "1064",
       "sourceStation": "WNACDT",
       "rating": "",
-      "state": "scheduled",
-      "durationMs": 11400000,
+      "state": "inProgress",
+      "durationMs": 524000,
       "scheduledStartTime": "2026-06-23T16:50:00.000Z",
       "scheduledEndTime": "2026-06-23T20:00:00.000Z",
-      "isInProgress": false
+      "isInProgress": true
     },
     {
       "title": "2026 FIFA World Cup",

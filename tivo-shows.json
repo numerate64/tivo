@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-23T16:30:19.877Z",
-  "sourceUpdatedAt": "2026-06-23T16:30:19.808Z",
-  "sourceCacheUpdatedAt": "2026-06-23T16:30:19.808Z",
+  "updatedAt": "2026-06-23T17:00:25.590Z",
+  "sourceUpdatedAt": "2026-06-23T17:00:25.519Z",
+  "sourceCacheUpdatedAt": "2026-06-23T17:00:25.519Z",
   "source": "Local TiVo API",
-  "totalItems": 1547,
-  "loadedItems": 1547,
+  "totalItems": 1548,
+  "loadedItems": 1548,
   "cached": false,
   "storage": {
-    "usedBytes": 3683385344000,
+    "usedBytes": 3683070771200,
     "totalBytes": 6597069766656,
-    "availableBytes": 2913684422656,
+    "availableBytes": 2913998995456,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Portugal vs. Uzbekistan",
+      "description": "Portugal vs. Uzbekistan in a Group K match in Houston, Texas. Cristiano Ronaldo and Portugal look to make up ground in the group after a lackluster 1-1 draw with DR Congo to open, with the 42-year-old legend managing only 25 touches (and three wayward shots). Uzbekistan goalkeeper Utkir Yusupov should be tested again after letting three of four on-target shots find the net vs. Colombia. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 344000,
+      "sizeBytes": 1111490560,
+      "captureDate": "2026-06-23T16:49:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Uruguay vs. Cape Verde",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-07T23:59:58.000Z"
     },
     {
-      "title": "The Rookie",
-      "episodeTitle": "Tiger Bear",
-      "description": "A troubling incident at a school draws the team into a complex case, while Celina's temporary missing persons assignment leads her into a dangerous situation. Copyright Rovi, Inc.",
-      "sourceChannel": "1005",
-      "sourceStation": "WCVBDT",
-      "rating": "TV-14",
+      "title": "Renovation Aloha",
+      "episodeTitle": "Squatter Shutdown",
+      "description": "When an off-island investor begs the Kalamas to rescue her rental disaster, they inherit unpaid rent, a hostile squatter, and a house they've never seen. After a tense cash-for-keys deal, HOA battles and material delays threaten to wipe out their profit. Copyright Rovi, Inc.",
+      "sourceChannel": "1492",
+      "sourceStation": "HGTVHD-E",
+      "rating": "TV-G",
       "isSuggestion": false,
-      "durationMs": 3779000,
-      "sizeBytes": 3198156800,
-      "captureDate": "2026-04-07T01:59:58.000Z"
+      "durationMs": 3589000,
+      "sizeBytes": 1772093440,
+      "captureDate": "2026-04-07T23:59:58.000Z"
     },
     {
       "title": "The Rookie",
