@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-24T00:00:17.236Z",
-  "sourceUpdatedAt": "2026-06-24T00:00:17.174Z",
-  "sourceCacheUpdatedAt": "2026-06-24T00:00:17.174Z",
+  "updatedAt": "2026-06-24T00:30:17.849Z",
+  "sourceUpdatedAt": "2026-06-24T00:30:17.787Z",
+  "sourceCacheUpdatedAt": "2026-06-24T00:30:17.787Z",
   "source": "Local TiVo API",
-  "totalItems": 1548,
-  "loadedItems": 1548,
+  "totalItems": 1543,
+  "loadedItems": 1543,
   "cached": false,
   "storage": {
-    "usedBytes": 3691585208320,
+    "usedBytes": 3688628224000,
     "totalBytes": 6597069766656,
-    "availableBytes": 2905484558336,
+    "availableBytes": 2908441542656,
     "knownTotal": true
   },
   "shows": [
@@ -12699,18 +12699,6 @@
       "captureDate": "2022-09-27T12:29:58.000Z"
     },
     {
-      "title": "The Garage With Steve Butler",
-      "episodeTitle": "Work Bench",
-      "description": "Steve demonstrates how to build a workbench that's perfect for small shop. Copyright Rovi, Inc.",
-      "sourceChannel": "294",
-      "sourceStation": "WSBEDT2",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 1803000,
-      "sizeBytes": 503316480,
-      "captureDate": "2022-09-27T09:29:58.000Z"
-    },
-    {
       "title": "Christopher Kimball's Milk Street Television",
       "episodeTitle": "Pizza and Pasta",
       "description": "Features Italian-inspired recipes. Includes roasted mushroom pizza with fontina and scallion; cacio e pepe; and a simple shaved zucchini and herb salad with parmesan. Copyright Rovi, Inc.",
@@ -12757,18 +12745,6 @@
       "durationMs": 1801000,
       "sizeBytes": 859832320,
       "captureDate": "2022-09-25T12:29:58.000Z"
-    },
-    {
-      "title": "The Garage With Steve Butler",
-      "episodeTitle": "Tea Caddy",
-      "description": "Steve shows how to build a mahogany tea caddy, perfect for entertaining, or as a gift. Copyright Rovi, Inc.",
-      "sourceChannel": "819",
-      "sourceStation": "WSBEDT",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 1801000,
-      "sizeBytes": 964689920,
-      "captureDate": "2022-09-25T10:29:58.000Z"
     },
     {
       "title": "Fast: Home Rescue",
@@ -12843,30 +12819,6 @@
       "captureDate": "2022-09-22T13:29:58.000Z"
     },
     {
-      "title": "The Garage With Steve Butler",
-      "episodeTitle": "Yard Games",
-      "description": "Steve builds some yard games, guaranteed to create some backyard fun. Copyright Rovi, Inc.",
-      "sourceChannel": "237",
-      "sourceStation": "WGBXDT3",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 492830720,
-      "captureDate": "2022-09-21T12:29:58.000Z"
-    },
-    {
-      "title": "The Garage With Steve Butler",
-      "episodeTitle": "Mallet & Hand Plane",
-      "description": "Steve creates a mallet and a hand plane using recycled materials. Copyright Rovi, Inc.",
-      "sourceChannel": "294",
-      "sourceStation": "WSBEDT2",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 1800000,
-      "sizeBytes": 492830720,
-      "captureDate": "2022-09-21T07:59:58.000Z"
-    },
-    {
       "title": "Good Bones: Risky Business",
       "episodeTitle": "Redemption",
       "description": "With a new team in place and her hands firmly on the wheel, Mina is finally ready to finish the carriage house portion of this massive passion project. With plans to give the entire industrial loft design style, Mina takes a risk on a dark moody paint. Copyright Rovi, Inc.",
@@ -12889,18 +12841,6 @@
       "durationMs": 1800000,
       "sizeBytes": 482344960,
       "captureDate": "2022-09-20T23:59:58.000Z"
-    },
-    {
-      "title": "The Garage With Steve Butler",
-      "episodeTitle": "Café' Table",
-      "description": "Steve creates a café-style table. Copyright Rovi, Inc.",
-      "sourceChannel": "294",
-      "sourceStation": "WSBEDT2",
-      "rating": "",
-      "isSuggestion": true,
-      "durationMs": 1801000,
-      "sizeBytes": 503316480,
-      "captureDate": "2022-09-20T09:29:58.000Z"
     },
     {
       "title": "Christopher Kimball's Milk Street Television",
