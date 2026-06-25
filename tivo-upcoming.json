@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-25T09:30:19.991Z",
-  "sourceUpdatedAt": "2026-06-25T09:30:02.342Z",
-  "sourceCacheUpdatedAt": "2026-06-25T09:30:02.342Z",
+  "updatedAt": "2026-06-25T10:00:22.102Z",
+  "sourceUpdatedAt": "2026-06-25T10:00:01.916Z",
+  "sourceCacheUpdatedAt": "2026-06-25T10:00:01.916Z",
   "source": "Local TiVo API",
   "totalItems": 16,
   "loadedItems": 16,
@@ -11,7 +11,7 @@
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Cape Verde vs. Saudi Arabia",
-      "description": "Cape Verde vs. Saudi Arabia in a Group H finale in Houston, Texas.",
+      "description": "Cape Verde vs. Saudi Arabia in a Group H finale in Houston, Texas. One of the most unlikely runs to the World Cup knockout round is still alive for the island nation of Cape Verde (2 points, 0 goal diff.), whose upstart Blue Sharks have held Spain and Uruguay to dramatic draws. They join the Saudis (1 point, -4 goals) in also needing a loss or draw by Uruguay for their dreams to be realized.",
       "sourceChannel": "1208",
       "sourceStation": "FS1HD",
       "rating": "",
