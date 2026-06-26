@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-26T05:00:19.122Z",
-  "sourceUpdatedAt": "2026-06-26T05:00:02.047Z",
-  "sourceCacheUpdatedAt": "2026-06-26T05:00:02.047Z",
+  "updatedAt": "2026-06-26T05:30:24.192Z",
+  "sourceUpdatedAt": "2026-06-26T05:30:01.588Z",
+  "sourceCacheUpdatedAt": "2026-06-26T05:30:01.588Z",
   "source": "Local TiVo API",
-  "totalItems": 16,
-  "loadedItems": 16,
+  "totalItems": 18,
+  "loadedItems": 18,
   "cached": false,
   "shows": [
     {
@@ -214,6 +214,32 @@
       "durationMs": 1980000,
       "scheduledStartTime": "2026-07-07T03:30:00.000Z",
       "scheduledEndTime": "2026-07-07T04:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "",
+      "description": "Two high-school students have secret alter egos as superheroes who save Paris from evil.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 1980000,
+      "scheduledStartTime": "2026-07-09T03:00:00.000Z",
+      "scheduledEndTime": "2026-07-09T03:33:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "",
+      "description": "Two high-school students have secret alter egos as superheroes who save Paris from evil.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 1980000,
+      "scheduledStartTime": "2026-07-09T03:30:00.000Z",
+      "scheduledEndTime": "2026-07-09T04:03:00.000Z",
       "isInProgress": false
     }
   ]
