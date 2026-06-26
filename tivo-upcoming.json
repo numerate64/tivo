@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-26T09:30:18.738Z",
-  "sourceUpdatedAt": "2026-06-26T09:30:02.266Z",
-  "sourceCacheUpdatedAt": "2026-06-26T09:30:02.266Z",
+  "updatedAt": "2026-06-26T10:00:22.959Z",
+  "sourceUpdatedAt": "2026-06-26T10:00:02.223Z",
+  "sourceCacheUpdatedAt": "2026-06-26T10:00:02.223Z",
   "source": "Local TiVo API",
   "totalItems": 18,
   "loadedItems": 18,
@@ -24,7 +24,7 @@
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Colombia vs. Portugal",
-      "description": "Colombia vs. Portugal in a Group K finale in Miami, Fla.",
+      "description": "Colombia vs. Portugal in a Group K finale in Miami, Fla. An energetic atmosphere awaits two squads coming off shutout wins on Matchday 2, with Colombia (6 pts., +3 goal diff.) having clinched their third knockout round in their last three World Cups, while Cristiano Ronaldo and Portugal (4 pts., +5 goal diff.) are also on very solid ground. Daniel Munoz opened Colombia's scoring in both games.",
       "sourceChannel": "1064",
       "sourceStation": "WNACDT",
       "rating": "",
