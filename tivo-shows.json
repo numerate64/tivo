@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-27T23:00:17.874Z",
-  "sourceUpdatedAt": "2026-06-27T23:00:17.793Z",
-  "sourceCacheUpdatedAt": "2026-06-27T23:00:17.793Z",
+  "updatedAt": "2026-06-27T23:30:18.404Z",
+  "sourceUpdatedAt": "2026-06-27T23:30:18.348Z",
+  "sourceCacheUpdatedAt": "2026-06-27T23:30:18.348Z",
   "source": "Local TiVo API",
-  "totalItems": 1544,
-  "loadedItems": 1544,
+  "totalItems": 1545,
+  "loadedItems": 1545,
   "cached": false,
   "storage": {
-    "usedBytes": 3695863398400,
+    "usedBytes": 3698453381120,
     "totalBytes": 6597069766656,
-    "availableBytes": 2901206368256,
+    "availableBytes": 2898616385536,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Colombia vs. Portugal",
+      "description": "Colombia vs. Portugal in a Group K finale in Miami, Fla. An energetic atmosphere awaits two squads coming off shutout wins on Matchday 2, with Colombia (6 pts., +3 goal diff.) having clinched their third knockout round in their last three World Cups, while Cristiano Ronaldo and Portugal (4 pts., +5 goal diff.) are also on very solid ground. Daniel Munoz opened Colombia's scoring in both games. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 346000,
+      "sizeBytes": 1069547520,
+      "captureDate": "2026-06-27T23:19:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Cape Verde vs. Saudi Arabia",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-13T00:59:58.000Z"
     },
     {
-      "title": "NCIS",
-      "episodeTitle": "Knick-Knack",
-      "description": "A murder aboard a museum ship becomes a cryptic treasure hunt when a dying Navy captain leaves a final clue. To solve it, the team must decode what was worth killing and dying. Copyright Rovi, Inc.",
-      "sourceChannel": "1012",
-      "sourceStation": "WPRIDT",
+      "title": "Tracker",
+      "episodeTitle": "Struck",
+      "description": "A pregnant wife reaches out to Colter to find her missing husband. Copyright Rovi, Inc.",
+      "sourceChannel": "1004",
+      "sourceStation": "WBZDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3601000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2026-04-07T23:59:58.000Z"
+      "durationMs": 5401000,
+      "sizeBytes": 4519362560,
+      "captureDate": "2026-04-13T00:59:58.000Z"
     },
     {
       "title": "NCIS",

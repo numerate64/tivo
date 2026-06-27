@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-27T23:00:17.875Z",
-  "sourceUpdatedAt": "2026-06-27T23:00:02.347Z",
-  "sourceCacheUpdatedAt": "2026-06-27T23:00:02.347Z",
+  "updatedAt": "2026-06-27T23:30:18.405Z",
+  "sourceUpdatedAt": "2026-06-27T23:30:02.111Z",
+  "sourceCacheUpdatedAt": "2026-06-27T23:30:02.111Z",
   "source": "Local TiVo API",
   "totalItems": 2,
   "loadedItems": 2,
@@ -15,11 +15,11 @@
       "sourceChannel": "1064",
       "sourceStation": "WNACDT",
       "rating": "",
-      "state": "scheduled",
-      "durationMs": 11400000,
+      "state": "inProgress",
+      "durationMs": 524000,
       "scheduledStartTime": "2026-06-27T23:20:00.000Z",
       "scheduledEndTime": "2026-06-28T02:30:00.000Z",
-      "isInProgress": false
+      "isInProgress": true
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
