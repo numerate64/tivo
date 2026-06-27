@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-27T02:30:17.370Z",
-  "sourceUpdatedAt": "2026-06-27T02:30:01.866Z",
-  "sourceCacheUpdatedAt": "2026-06-27T02:30:01.866Z",
+  "updatedAt": "2026-06-27T03:00:20.809Z",
+  "sourceUpdatedAt": "2026-06-27T03:00:01.958Z",
+  "sourceCacheUpdatedAt": "2026-06-27T03:00:01.958Z",
   "source": "Local TiVo API",
   "totalItems": 18,
   "loadedItems": 18,
@@ -16,7 +16,7 @@
       "sourceStation": "FS1HD",
       "rating": "",
       "state": "inProgress",
-      "durationMs": 9516000,
+      "durationMs": 11249000,
       "scheduledStartTime": "2026-06-26T23:50:00.000Z",
       "scheduledEndTime": "2026-06-27T03:00:00.000Z",
       "isInProgress": true
