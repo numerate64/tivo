@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-26T23:30:18.900Z",
-  "sourceUpdatedAt": "2026-06-26T23:30:18.838Z",
-  "sourceCacheUpdatedAt": "2026-06-26T23:30:18.838Z",
+  "updatedAt": "2026-06-27T00:00:17.464Z",
+  "sourceUpdatedAt": "2026-06-27T00:00:17.391Z",
+  "sourceCacheUpdatedAt": "2026-06-27T00:00:17.391Z",
   "source": "Local TiVo API",
-  "totalItems": 1543,
-  "loadedItems": 1543,
+  "totalItems": 1544,
+  "loadedItems": 1544,
   "cached": false,
   "storage": {
-    "usedBytes": 3688628224000,
+    "usedBytes": 3690526146560,
     "totalBytes": 6597069766656,
-    "availableBytes": 2908441542656,
+    "availableBytes": 2906543620096,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Cape Verde vs. Saudi Arabia",
+      "description": "Cape Verde vs. Saudi Arabia in a Group H finale in Houston, Texas. One of the most unlikely runs to the World Cup knockout round is still alive for the island nation of Cape Verde (2 points, 0 goal diff.), whose upstart Blue Sharks have held Spain and Uruguay to dramatic draws. They join the Saudis (1 point, -4 goals) in also needing a loss or draw by Uruguay for their dreams to be realized. Copyright Rovi, Inc.",
+      "sourceChannel": "1208",
+      "sourceStation": "FS1HD",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 346000,
+      "sizeBytes": 671088640,
+      "captureDate": "2026-06-26T23:49:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Portugal vs. Uzbekistan",
@@ -603,15 +615,15 @@
       "captureDate": "2026-04-07T23:59:58.000Z"
     },
     {
-      "title": "Renovation Aloha",
-      "episodeTitle": "Squatter Shutdown",
-      "description": "When an off-island investor begs the Kalamas to rescue her rental disaster, they inherit unpaid rent, a hostile squatter, and a house they've never seen. After a tense cash-for-keys deal, HOA battles and material delays threaten to wipe out their profit. Copyright Rovi, Inc.",
-      "sourceChannel": "1492",
-      "sourceStation": "HGTVHD-E",
-      "rating": "TV-G",
+      "title": "NCIS",
+      "episodeTitle": "Knick-Knack",
+      "description": "A murder aboard a museum ship becomes a cryptic treasure hunt when a dying Navy captain leaves a final clue. To solve it, the team must decode what was worth killing and dying. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3589000,
-      "sizeBytes": 1772093440,
+      "durationMs": 3601000,
+      "sizeBytes": 2998927360,
       "captureDate": "2026-04-07T23:59:58.000Z"
     },
     {
