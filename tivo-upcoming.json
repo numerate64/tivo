@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-28T01:00:17.695Z",
-  "sourceUpdatedAt": "2026-06-28T01:00:02.264Z",
-  "sourceCacheUpdatedAt": "2026-06-28T01:00:02.264Z",
+  "updatedAt": "2026-06-28T01:30:21.464Z",
+  "sourceUpdatedAt": "2026-06-28T01:30:01.461Z",
+  "sourceCacheUpdatedAt": "2026-06-28T01:30:01.461Z",
   "source": "Local TiVo API",
   "totalItems": 2,
   "loadedItems": 2,
@@ -16,7 +16,7 @@
       "sourceStation": "WNACDT",
       "rating": "",
       "state": "inProgress",
-      "durationMs": 5879000,
+      "durationMs": 7775000,
       "scheduledStartTime": "2026-06-27T23:20:00.000Z",
       "scheduledEndTime": "2026-06-28T02:30:00.000Z",
       "isInProgress": true
