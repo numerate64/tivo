@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-06-28T06:00:17.353Z",
-  "sourceUpdatedAt": "2026-06-28T06:00:02.492Z",
-  "sourceCacheUpdatedAt": "2026-06-28T06:00:02.492Z",
+  "updatedAt": "2026-06-28T06:30:16.696Z",
+  "sourceUpdatedAt": "2026-06-28T06:30:02.396Z",
+  "sourceCacheUpdatedAt": "2026-06-28T06:30:02.396Z",
   "source": "Local TiVo API",
   "totalItems": 1,
   "loadedItems": 1,
@@ -10,15 +10,15 @@
   "shows": [
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
-      "episodeTitle": "",
-      "description": "Two high-school students have secret alter egos as superheroes who save Paris from evil.",
+      "episodeTitle": "The Dirtifiers",
+      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero.",
       "sourceChannel": "824",
       "sourceStation": "DISNEYHD-E",
       "rating": "",
       "state": "scheduled",
       "durationMs": 1980000,
-      "scheduledStartTime": "2026-07-02T03:30:00.000Z",
-      "scheduledEndTime": "2026-07-02T04:03:00.000Z",
+      "scheduledStartTime": "2026-07-11T15:00:00.000Z",
+      "scheduledEndTime": "2026-07-11T15:33:00.000Z",
       "isInProgress": false
     }
   ]
