@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-03T21:30:18.607Z",
-  "sourceUpdatedAt": "2026-07-03T21:30:18.537Z",
-  "sourceCacheUpdatedAt": "2026-07-03T21:30:18.537Z",
+  "updatedAt": "2026-07-03T22:00:16.655Z",
+  "sourceUpdatedAt": "2026-07-03T22:00:16.578Z",
+  "sourceCacheUpdatedAt": "2026-07-03T22:00:16.578Z",
   "source": "Local TiVo API",
-  "totalItems": 1545,
-  "loadedItems": 1545,
+  "totalItems": 1546,
+  "loadedItems": 1546,
   "cached": false,
   "storage": {
-    "usedBytes": 3707009761280,
+    "usedBytes": 3706537902080,
     "totalBytes": 6597069766656,
-    "availableBytes": 2890060005376,
+    "availableBytes": 2890531864576,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Round of 32: Argentina vs. Cape Verde",
+      "description": "Argentina vs. Cape Verde in a Round of 32 match in Miami, Fla. A sea of Argentine blue and white awaits the underdog Blue Sharks of Cape Verde (three draws in group stage) as their maiden World Cup adventure finds them up against the reigning champions, playing in the backyard of Lionel Messi's current club Inter Miami. Messi's six goals share the Golden Boot lead with Kylian Mbappe. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 346000,
+      "sizeBytes": 1048576000,
+      "captureDate": "2026-07-03T21:49:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Colombia vs. Portugal",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-14T00:59:58.000Z"
     },
     {
-      "title": "Tracker",
-      "episodeTitle": "Struck",
-      "description": "A pregnant wife reaches out to Colter to find her missing husband. Copyright Rovi, Inc.",
-      "sourceChannel": "1004",
-      "sourceStation": "WBZDT",
+      "title": "FBI",
+      "episodeTitle": "Shahadah",
+      "description": "When the body of a VA psychiatrist is found tortured and deceased under a nearby overpass, the team is led to a suspicious religious leader with a substantial online presence. Meanwhile, OA builds a connection with Special Agent Zara Ushruf (Pardis Saremi), who assists on the case. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 5401000,
-      "sizeBytes": 4519362560,
-      "captureDate": "2026-04-13T00:59:58.000Z"
+      "durationMs": 3591000,
+      "sizeBytes": 2998927360,
+      "captureDate": "2026-04-14T00:59:58.000Z"
     },
     {
       "title": "Tracker",
