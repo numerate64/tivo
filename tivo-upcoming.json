@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-04T00:30:18.590Z",
-  "sourceUpdatedAt": "2026-07-04T00:30:02.067Z",
-  "sourceCacheUpdatedAt": "2026-07-04T00:30:02.067Z",
+  "updatedAt": "2026-07-04T01:00:20.174Z",
+  "sourceUpdatedAt": "2026-07-04T01:00:01.999Z",
+  "sourceCacheUpdatedAt": "2026-07-04T01:00:01.999Z",
   "source": "Local TiVo API",
-  "totalItems": 3,
-  "loadedItems": 3,
+  "totalItems": 2,
+  "loadedItems": 2,
   "cached": false,
   "shows": [
-    {
-      "title": "2026 FIFA World Cup",
-      "episodeTitle": "Round of 32: Argentina vs. Cape Verde",
-      "description": "Argentina vs. Cape Verde in a Round of 32 match in Miami, Fla. A sea of Argentine blue and white awaits the underdog Blue Sharks of Cape Verde (three draws in group stage) as their maiden World Cup adventure finds them up against the reigning champions, playing in the backyard of Lionel Messi's current club Inter Miami. Messi's six goals share the Golden Boot lead with Kylian Mbappe.",
-      "sourceChannel": "1064",
-      "sourceStation": "WNACDT",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 9500000,
-      "scheduledStartTime": "2026-07-03T21:50:00.000Z",
-      "scheduledEndTime": "2026-07-04T01:00:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "The Dirtifiers",
