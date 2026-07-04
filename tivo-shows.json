@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-04T01:00:20.173Z",
-  "sourceUpdatedAt": "2026-07-04T01:00:20.109Z",
-  "sourceCacheUpdatedAt": "2026-07-04T01:00:20.109Z",
+  "updatedAt": "2026-07-04T01:30:17.620Z",
+  "sourceUpdatedAt": "2026-07-04T01:30:17.560Z",
+  "sourceCacheUpdatedAt": "2026-07-04T01:30:17.560Z",
   "source": "Local TiVo API",
   "totalItems": 1546,
   "loadedItems": 1546,
   "cached": false,
   "storage": {
-    "usedBytes": 3715314483200,
+    "usedBytes": 3715115253760,
     "totalBytes": 6597069766656,
-    "availableBytes": 2881755283456,
+    "availableBytes": 2881954512896,
     "knownTotal": true
   },
   "shows": [
@@ -23,7 +23,7 @@
       "rating": "",
       "isSuggestion": false,
       "durationMs": 11367000,
-      "sizeBytes": 9825157120,
+      "sizeBytes": 9625927680,
       "captureDate": "2026-07-03T21:49:58.000Z"
     },
     {
