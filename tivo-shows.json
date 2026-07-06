@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-06T00:30:18.114Z",
-  "sourceUpdatedAt": "2026-07-06T00:30:18.046Z",
-  "sourceCacheUpdatedAt": "2026-07-06T00:30:18.046Z",
+  "updatedAt": "2026-07-06T19:00:18.543Z",
+  "sourceUpdatedAt": "2026-07-06T19:00:18.476Z",
+  "sourceCacheUpdatedAt": "2026-07-06T19:00:18.476Z",
   "source": "Local TiVo API",
-  "totalItems": 1546,
-  "loadedItems": 1546,
+  "totalItems": 1547,
+  "loadedItems": 1547,
   "cached": false,
   "storage": {
-    "usedBytes": 3715115253760,
+    "usedBytes": 3716363059200,
     "totalBytes": 6597069766656,
-    "availableBytes": 2881954512896,
+    "availableBytes": 2880706707456,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "2026 FIFA World Cup",
+      "episodeTitle": "Round of 16: Portugal vs. Spain",
+      "description": "Portugal vs. Spain in a Round of 16 match in Arlington, Texas. Co-hosts of the 2030 World Cup collide for a berth in the quarterfinals, furthering their Iberian rivalry with a third World Cup meeting. Portugal's ageless Cristiano Ronaldo was involved in both previous games, a 1-0 Spain round-of-16 win in 2010 and a 3-3 draw in the 2018 group stage. La Roja have outscored their last three foes 8-0. Copyright Rovi, Inc.",
+      "sourceChannel": "1064",
+      "sourceStation": "WNACDT",
+      "rating": "",
+      "isSuggestion": false,
+      "durationMs": 348000,
+      "sizeBytes": 1048576000,
+      "captureDate": "2026-07-06T18:49:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Round of 32: Argentina vs. Cape Verde",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-14T01:59:58.000Z"
     },
     {
-      "title": "FBI",
-      "episodeTitle": "Shahadah",
-      "description": "When the body of a VA psychiatrist is found tortured and deceased under a nearby overpass, the team is led to a suspicious religious leader with a substantial online presence. Meanwhile, OA builds a connection with Special Agent Zara Ushruf (Pardis Saremi), who assists on the case. Copyright Rovi, Inc.",
-      "sourceChannel": "1012",
-      "sourceStation": "WPRIDT",
+      "title": "The Rookie",
+      "episodeTitle": "Survive The Streets",
+      "description": "The team works together after Nolan and Celina discover a possible suicide that spirals into conspiracy. Copyright Rovi, Inc.",
+      "sourceChannel": "1005",
+      "sourceStation": "WCVBDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3591000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2026-04-14T00:59:58.000Z"
+      "durationMs": 3779000,
+      "sizeBytes": 3198156800,
+      "captureDate": "2026-04-14T01:59:58.000Z"
     },
     {
       "title": "FBI",
