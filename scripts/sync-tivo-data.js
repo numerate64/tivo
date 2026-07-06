@@ -7,6 +7,7 @@ const SOURCE_URL = process.env.TIVO_SOURCE_URL || 'https://127.0.0.1/tivo/api/sh
 const UPCOMING_SOURCE_URL = process.env.TIVO_UPCOMING_SOURCE_URL || 'https://127.0.0.1/tivo/api/upcoming?refresh=1';
 const OUT_PATH = path.join(__dirname, '..', 'tivo-shows.json');
 const UPCOMING_OUT_PATH = path.join(__dirname, '..', 'tivo-upcoming.json');
+const VOLATILE_FIELDS = new Set(['updatedAt', 'sourceUpdatedAt', 'sourceCacheUpdatedAt']);
 
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
@@ -105,6 +106,36 @@ function publicUpcomingSnapshot(payload = {}) {
   };
 }
 
+function readJsonFile(filePath) {
+  try {
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
+function stablePayload(value) {
+  if (Array.isArray(value)) return value.map(stablePayload);
+  if (!value || typeof value !== 'object') return value;
+
+  return Object.fromEntries(
+    Object.entries(value)
+      .filter(([key]) => !VOLATILE_FIELDS.has(key))
+      .map(([key, childValue]) => [key, stablePayload(childValue)])
+  );
+}
+
+function writeSnapshotIfChanged(filePath, snapshot) {
+  const existing = readJsonFile(filePath);
+  if (existing && JSON.stringify(stablePayload(existing)) === JSON.stringify(stablePayload(snapshot))) {
+    console.log(`No content changes for ${path.basename(filePath)}; preserving existing timestamps.`);
+    return false;
+  }
+
+  fs.writeFileSync(filePath, `${JSON.stringify(snapshot, null, 2)}\n`);
+  return true;
+}
+
 async function main() {
   const [payload, upcomingPayload] = await Promise.all([
     fetchJson(SOURCE_URL),
@@ -112,8 +143,8 @@ async function main() {
   ]);
   const snapshot = publicSnapshot(payload);
   const upcomingSnapshot = publicUpcomingSnapshot(upcomingPayload);
-  fs.writeFileSync(OUT_PATH, `${JSON.stringify(snapshot, null, 2)}\n`);
-  fs.writeFileSync(UPCOMING_OUT_PATH, `${JSON.stringify(upcomingSnapshot, null, 2)}\n`);
+  writeSnapshotIfChanged(OUT_PATH, snapshot);
+  writeSnapshotIfChanged(UPCOMING_OUT_PATH, upcomingSnapshot);
   console.log(`Synced ${snapshot.shows.length} TiVo shows to ${path.basename(OUT_PATH)}`);
   console.log(`Synced ${upcomingSnapshot.shows.length} upcoming recordings to ${path.basename(UPCOMING_OUT_PATH)}`);
 }
