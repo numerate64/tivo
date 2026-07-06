@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-06T19:30:15.985Z",
-  "sourceUpdatedAt": "2026-07-06T19:30:15.927Z",
-  "sourceCacheUpdatedAt": "2026-07-06T19:30:15.927Z",
+  "updatedAt": "2026-07-06T20:00:17.501Z",
+  "sourceUpdatedAt": "2026-07-06T20:00:17.440Z",
+  "sourceCacheUpdatedAt": "2026-07-06T20:00:17.440Z",
   "source": "Local TiVo API",
   "totalItems": 1547,
   "loadedItems": 1547,
   "cached": false,
   "storage": {
-    "usedBytes": 3717935923200,
+    "usedBytes": 3719508787200,
     "totalBytes": 6597069766656,
-    "availableBytes": 2879133843456,
+    "availableBytes": 2877560979456,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "WNACDT",
       "rating": "",
       "isSuggestion": false,
-      "durationMs": 2069000,
-      "sizeBytes": 2621440000,
+      "durationMs": 3956000,
+      "sizeBytes": 4194304000,
       "captureDate": "2026-07-06T18:49:58.000Z"
     },
     {
