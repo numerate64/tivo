@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-06T21:30:15.989Z",
-  "sourceUpdatedAt": "2026-07-06T21:30:01.651Z",
-  "sourceCacheUpdatedAt": "2026-07-06T21:30:01.651Z",
+  "updatedAt": "2026-07-06T22:00:27.477Z",
+  "sourceUpdatedAt": "2026-07-06T22:00:02.011Z",
+  "sourceCacheUpdatedAt": "2026-07-06T22:00:02.011Z",
   "source": "Local TiVo API",
-  "totalItems": 9,
-  "loadedItems": 9,
+  "totalItems": 8,
+  "loadedItems": 8,
   "cached": false,
   "shows": [
-    {
-      "title": "2026 FIFA World Cup",
-      "episodeTitle": "Round of 16: Portugal vs. Spain",
-      "description": "Portugal vs. Spain in a Round of 16 match in Arlington, Texas. Co-hosts of the 2030 World Cup collide for a berth in the quarterfinals, furthering their Iberian rivalry with a third World Cup meeting. Portugal's ageless Cristiano Ronaldo was involved in both previous games, a 1-0 Spain round-of-16 win in 2010 and a 3-3 draw in the 2018 group stage. La Roja have outscored their last three foes 8-0.",
-      "sourceChannel": "1064",
-      "sourceStation": "WNACDT",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 9489000,
-      "scheduledStartTime": "2026-07-06T18:50:00.000Z",
-      "scheduledEndTime": "2026-07-06T22:00:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "The Dirtifiers",
