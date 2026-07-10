@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-09T18:30:19.187Z",
-  "sourceUpdatedAt": "2026-07-09T18:30:01.718Z",
-  "sourceCacheUpdatedAt": "2026-07-09T18:30:01.718Z",
+  "updatedAt": "2026-07-10T07:30:22.973Z",
+  "sourceUpdatedAt": "2026-07-10T07:30:01.499Z",
+  "sourceCacheUpdatedAt": "2026-07-10T07:30:01.499Z",
   "source": "Local TiVo API",
-  "totalItems": 7,
-  "loadedItems": 7,
+  "totalItems": 2,
+  "loadedItems": 2,
   "cached": false,
   "shows": [
     {
@@ -19,71 +19,6 @@
       "durationMs": 1980000,
       "scheduledStartTime": "2026-07-11T15:00:00.000Z",
       "scheduledEndTime": "2026-07-11T15:33:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie.",
-      "sourceChannel": "1173",
-      "sourceStation": "WJARDT2",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-07-12T03:35:00.000Z",
-      "scheduledEndTime": "2026-07-12T04:38:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie.",
-      "sourceChannel": "14",
-      "sourceStation": "WSBK",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-07-12T22:00:00.000Z",
-      "scheduledEndTime": "2026-07-12T23:03:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie.",
-      "sourceChannel": "1038",
-      "sourceStation": "WSBKDT",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-07-12T22:00:00.000Z",
-      "scheduledEndTime": "2026-07-12T23:03:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie.",
-      "sourceChannel": "14",
-      "sourceStation": "WSBK",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-07-12T23:00:00.000Z",
-      "scheduledEndTime": "2026-07-13T00:03:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie.",
-      "sourceChannel": "1038",
-      "sourceStation": "WSBKDT",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-07-12T23:00:00.000Z",
-      "scheduledEndTime": "2026-07-13T00:03:00.000Z",
       "isInProgress": false
     },
     {
