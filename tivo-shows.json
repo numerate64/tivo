@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-06T22:30:17.506Z",
-  "sourceUpdatedAt": "2026-07-06T22:30:17.409Z",
-  "sourceCacheUpdatedAt": "2026-07-06T22:30:17.409Z",
+  "updatedAt": "2026-07-11T15:00:20.211Z",
+  "sourceUpdatedAt": "2026-07-11T15:00:20.148Z",
+  "sourceCacheUpdatedAt": "2026-07-11T15:00:20.148Z",
   "source": "Local TiVo API",
-  "totalItems": 1547,
-  "loadedItems": 1547,
+  "totalItems": 1548,
+  "loadedItems": 1548,
   "cached": false,
   "storage": {
-    "usedBytes": 3724940410880,
+    "usedBytes": 3723818434560,
     "totalBytes": 6597069766656,
-    "availableBytes": 2872129355776,
+    "availableBytes": 2873251332096,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "The Dirtifiers",
+      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero. Copyright Rovi, Inc.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "TV-Y",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 304087040,
+      "captureDate": "2026-07-11T14:59:58.000Z"
+    },
     {
       "title": "2026 FIFA World Cup",
       "episodeTitle": "Round of 16: Portugal vs. Spain",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
-      "title": "The Rookie",
-      "episodeTitle": "Survive The Streets",
-      "description": "The team works together after Nolan and Celina discover a possible suicide that spirals into conspiracy. Copyright Rovi, Inc.",
-      "sourceChannel": "1005",
-      "sourceStation": "WCVBDT",
-      "rating": "TV-14",
+      "title": "Renovation Aloha",
+      "episodeTitle": "Bones on the Big Island",
+      "description": "With home prices soaring, the Kalamas head to Hawaii's Big Island to prove affordable island living still exists. But when Kamohai buys land near an active lava zone, they're forced into a high-risk build where paradise may come at a dangerous price. Copyright Rovi, Inc.",
+      "sourceChannel": "1492",
+      "sourceStation": "HGTVHD-E",
+      "rating": "TV-G",
       "isSuggestion": false,
-      "durationMs": 3779000,
-      "sizeBytes": 3198156800,
-      "captureDate": "2026-04-14T01:59:58.000Z"
+      "durationMs": 3599000,
+      "sizeBytes": 1772093440,
+      "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
       "title": "The Rookie",
