@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-18T15:30:17.459Z",
-  "sourceUpdatedAt": "2026-07-18T15:30:01.693Z",
-  "sourceCacheUpdatedAt": "2026-07-18T15:30:01.693Z",
+  "updatedAt": "2026-07-18T16:00:17.806Z",
+  "sourceUpdatedAt": "2026-07-18T16:00:02.281Z",
+  "sourceCacheUpdatedAt": "2026-07-18T16:00:02.281Z",
   "source": "Local TiVo API",
-  "totalItems": 2,
-  "loadedItems": 2,
+  "totalItems": 1,
+  "loadedItems": 1,
   "cached": false,
   "shows": [
-    {
-      "title": "Miraculous: Tales of Ladybug and Cat Noir",
-      "episodeTitle": "The Chained Titans",
-      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero.",
-      "sourceChannel": "824",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 1730000,
-      "scheduledStartTime": "2026-07-18T15:00:00.000Z",
-      "scheduledEndTime": "2026-07-18T15:33:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Queen of the Dreadzone",
