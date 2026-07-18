@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-11T16:00:19.161Z",
-  "sourceUpdatedAt": "2026-07-11T16:00:19.099Z",
-  "sourceCacheUpdatedAt": "2026-07-11T16:00:19.099Z",
+  "updatedAt": "2026-07-18T15:00:21.791Z",
+  "sourceUpdatedAt": "2026-07-18T15:00:21.733Z",
+  "sourceCacheUpdatedAt": "2026-07-18T15:00:21.733Z",
   "source": "Local TiVo API",
-  "totalItems": 1548,
-  "loadedItems": 1548,
+  "totalItems": 1549,
+  "loadedItems": 1549,
   "cached": false,
   "storage": {
-    "usedBytes": 3724510494720,
+    "usedBytes": 3726072872960,
     "totalBytes": 6597069766656,
-    "availableBytes": 2872559271936,
+    "availableBytes": 2870996893696,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "The Chained Titans",
+      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero. Copyright Rovi, Inc.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "TV-Y",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 335544320,
+      "captureDate": "2026-07-18T14:59:58.000Z"
+    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "The Dirtifiers",
@@ -603,15 +615,15 @@
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
-      "title": "Renovation Aloha",
-      "episodeTitle": "Bones on the Big Island",
-      "description": "With home prices soaring, the Kalamas head to Hawaii's Big Island to prove affordable island living still exists. But when Kamohai buys land near an active lava zone, they're forced into a high-risk build where paradise may come at a dangerous price. Copyright Rovi, Inc.",
-      "sourceChannel": "1492",
-      "sourceStation": "HGTVHD-E",
-      "rating": "TV-G",
+      "title": "NCIS",
+      "episodeTitle": "S.O.S.",
+      "description": "A Navy lieutenant resurfaces a year after her plane vanished with a story that doesn't quite add up. As the team peels back the mystery of a crash that was anything but accidental, every answer sparks a new twist. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "TV-PG",
       "isSuggestion": false,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
+      "durationMs": 3592000,
+      "sizeBytes": 2998927360,
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
