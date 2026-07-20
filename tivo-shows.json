@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-18T16:00:17.805Z",
-  "sourceUpdatedAt": "2026-07-18T16:00:17.722Z",
-  "sourceCacheUpdatedAt": "2026-07-18T16:00:17.722Z",
+  "updatedAt": "2026-07-20T00:30:18.356Z",
+  "sourceUpdatedAt": "2026-07-20T00:30:18.286Z",
+  "sourceCacheUpdatedAt": "2026-07-20T00:30:18.286Z",
   "source": "Local TiVo API",
-  "totalItems": 1549,
-  "loadedItems": 1549,
+  "totalItems": 1535,
+  "loadedItems": 1535,
   "cached": false,
   "storage": {
-    "usedBytes": 3726733475840,
+    "usedBytes": 3708068823040,
     "totalBytes": 6597069766656,
-    "availableBytes": 2870336290816,
+    "availableBytes": 2889000943616,
     "knownTotal": true
   },
   "shows": [
@@ -231,18 +231,6 @@
       "captureDate": "2026-05-18T00:59:58.000Z"
     },
     {
-      "title": "Divorced Sistas",
-      "episodeTitle": "Birds of a Feather",
-      "description": "Myron and Pastor Jefferson are forced to address the nature of their relationship, Geneva receives an unexpected offer, and Anika's sudden trip to the hospital ignites unsettling questions. Copyright Rovi, Inc.",
-      "sourceChannel": "1625",
-      "sourceStation": "BETHD-E",
-      "rating": "TV-MA",
-      "isSuggestion": false,
-      "durationMs": 3600000,
-      "sizeBytes": 1730150400,
-      "captureDate": "2026-05-14T00:59:58.000Z"
-    },
-    {
       "title": "NCIS",
       "episodeTitle": "Sons and Daughters",
       "description": "A year after a fatal coffee shop bombing, another blast reveals the attack wasn't by a lone perpetrator, forcing the team to grapple with questions of legacy and loyalty. Copyright Rovi, Inc.",
@@ -339,18 +327,6 @@
       "captureDate": "2026-05-08T01:59:58.000Z"
     },
     {
-      "title": "Divorced Sistas",
-      "episodeTitle": "Brutal Honesty",
-      "description": "Bridgette, Pastor Jefferson and Rasheda get to the bottom of Vaughn's actions, Geneva and Tiffany face the growing tension between them, and Naomi spills many painful truths. Copyright Rovi, Inc.",
-      "sourceChannel": "1625",
-      "sourceStation": "BETHD-E",
-      "rating": "TV-MA",
-      "isSuggestion": false,
-      "durationMs": 3599000,
-      "sizeBytes": 1730150400,
-      "captureDate": "2026-05-07T00:59:58.000Z"
-    },
-    {
       "title": "NCIS",
       "episodeTitle": "Deal With The Devil",
       "description": "As a secret immunity deal threatens to let a man walk free, Parker fights to keep the case alive. But when his estranged sister (guest star Nancy Travis) suddenly appears – and buried family wounds resurface – the battle for justice becomes deeply personal. Copyright Rovi, Inc.",
@@ -433,18 +409,6 @@
       "durationMs": 3779000,
       "sizeBytes": 3198156800,
       "captureDate": "2026-05-01T01:59:58.000Z"
-    },
-    {
-      "title": "Divorced Sistas",
-      "episodeTitle": "Heavier Than Words",
-      "description": "Geneva confronts Yara with false intentions of a playdate between their daughters, and Pastor Jefferson learns disturbing news about his wife's past. Copyright Rovi, Inc.",
-      "sourceChannel": "1625",
-      "sourceStation": "BETHD-E",
-      "rating": "TV-MA",
-      "isSuggestion": false,
-      "durationMs": 3599000,
-      "sizeBytes": 1730150400,
-      "captureDate": "2026-04-30T00:59:58.000Z"
     },
     {
       "title": "NCIS",
@@ -531,18 +495,6 @@
       "captureDate": "2026-04-25T14:59:58.000Z"
     },
     {
-      "title": "Divorced Sistas",
-      "episodeTitle": "Breath of Fresh Air",
-      "description": "Naomi considers a permanent solution to deal with her ex-husband's harassment, and Rasheda confronts the uncertainty in her marriage as tension mounts between her and Pastor Jefferson. Copyright Rovi, Inc.",
-      "sourceChannel": "1625",
-      "sourceStation": "BETHD-E",
-      "rating": "TV-MA",
-      "isSuggestion": false,
-      "durationMs": 3600000,
-      "sizeBytes": 1730150400,
-      "captureDate": "2026-04-23T00:59:58.000Z"
-    },
-    {
       "title": "NCIS",
       "episodeTitle": "Reboot",
       "description": "With most of NCIS away and the mainframe shut down for a midnight upgrade, Kasie and a skeleton crew are left in a darkened building when someone begins hunting from inside. What starts as a routine reboot becomes a high-stakes game of cat and mouse through powerless hallways until an unexpected ally, Sam Hanna, steps into the fight. Copyright Rovi, Inc.",
@@ -615,18 +567,6 @@
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
-      "title": "NCIS",
-      "episodeTitle": "S.O.S.",
-      "description": "A Navy lieutenant resurfaces a year after her plane vanished with a story that doesn't quite add up. As the team peels back the mystery of a crash that was anything but accidental, every answer sparks a new twist. Copyright Rovi, Inc.",
-      "sourceChannel": "1012",
-      "sourceStation": "WPRIDT",
-      "rating": "TV-PG",
-      "isSuggestion": false,
-      "durationMs": 3592000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2026-04-14T23:59:58.000Z"
-    },
-    {
       "title": "Renovation Aloha",
       "episodeTitle": "Bones on the Big Island",
       "description": "With home prices soaring, the Kalamas head to Hawaii's Big Island to prove affordable island living still exists. But when Kamohai buys land near an active lava zone, they're forced into a high-risk build where paradise may come at a dangerous price. Copyright Rovi, Inc.",
@@ -661,6 +601,18 @@
       "durationMs": 3591000,
       "sizeBytes": 2998927360,
       "captureDate": "2026-04-14T00:59:58.000Z"
+    },
+    {
+      "title": "Tracker",
+      "episodeTitle": "Struck",
+      "description": "A pregnant wife reaches out to Colter to find her missing husband. Copyright Rovi, Inc.",
+      "sourceChannel": "1004",
+      "sourceStation": "WBZDT",
+      "rating": "TV-14",
+      "isSuggestion": false,
+      "durationMs": 5401000,
+      "sizeBytes": 4519362560,
+      "captureDate": "2026-04-13T00:59:58.000Z"
     },
     {
       "title": "Tracker",
@@ -1885,18 +1837,6 @@
       "durationMs": 1979000,
       "sizeBytes": 996147200,
       "captureDate": "2025-06-14T14:59:58.000Z"
-    },
-    {
-      "title": "Divorced Sistas",
-      "episodeTitle": "The Pretty Lady",
-      "description": "As tensions rise in preparation for a church banquet, Geneva, Tiffany, and Rasheda confront personal betrayals. Naomi seeks revenge on her ex-husband amidst her tumultuous divorce. Copyright Rovi, Inc.",
-      "sourceChannel": "1625",
-      "sourceStation": "BETHD-E",
-      "rating": "TV-MA",
-      "isSuggestion": false,
-      "durationMs": 3599000,
-      "sizeBytes": 1688207360,
-      "captureDate": "2025-06-10T03:29:58.000Z"
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
@@ -10419,30 +10359,6 @@
       "captureDate": "2023-01-06T02:04:58.000Z"
     },
     {
-      "title": "Scorpion",
-      "episodeTitle": "Sharknerdo",
-      "description": "Walter and Paige end up stranded in the Pacific Ocean surrounded by sharks after their boat explodes during the team's mission to locate sunken treasure. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3596000,
-      "sizeBytes": 1352663040,
-      "captureDate": "2023-01-05T04:59:58.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "The Hole Truth",
-      "description": "The team must rescue a man teetering on the edge of a massive sinkhole that threatens to destroy Los Angeles' water supply. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3597000,
-      "sizeBytes": 1342177280,
-      "captureDate": "2023-01-05T04:00:00.000Z"
-    },
-    {
       "title": "Chicago Med",
       "episodeTitle": "A Little Change Might Do You Some Good",
       "description": "Charles and Nellie help an elderly patient and her developmentally disabled grandson. Will treats a high school swimmer with a heart condition. Crockett considers using the O.R. 2.0 for surgery. Hannah and Dr. Justin Lieu search for a patient's missing pregnant wife in the woods. Copyright Rovi, Inc.",
@@ -10453,90 +10369,6 @@
       "durationMs": 3600000,
       "sizeBytes": 3030384640,
       "captureDate": "2023-01-05T00:59:59.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "Wreck the Halls",
-      "description": "The team's electronics-free getaway in the mountains on Christmas Eve takes a dangerous turn when they encounter a group of gunrunners who kidnap Ralph. Meanwhile, Tim makes an important decision about his role with Team Scorpion. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3596000,
-      "sizeBytes": 1310720000,
-      "captureDate": "2023-01-05T00:59:58.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "This Is the Pits",
-      "description": "Walter's forced to swim through the deadly La Brea Tar Pits in order to save a woman who's trapped in the tar before she runs out of oxygen. Elsewhere, Veronica helps Ralph with his troop's cookie sale, unbeknownst to Paige. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3594000,
-      "sizeBytes": 1268776960,
-      "captureDate": "2023-01-04T23:59:59.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "Mother Load",
-      "description": "Paige's estranged mother enlists the team's help when she accidentally uncovers a forgotten nuclear reactor that's on the verge of exploding. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3594000,
-      "sizeBytes": 1289748480,
-      "captureDate": "2023-01-04T22:59:59.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "Sly and the Family Stone",
-      "description": "The team travel to Ireland to attend Megan's memorial, but Walter discovers a natural disaster in a nearby lake created a poisonous cloud that's threatening the entire village. Meanwhile, Cabe and Toby try to alleviate tension between Tim and Walter. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3596000,
-      "sizeBytes": 1310720000,
-      "captureDate": "2023-01-04T22:00:00.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "We're Gonna Need a Bigger Vote",
-      "description": "The team must stop someone who tries to intervene in the U.S. presidential election on Election Day. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3594000,
-      "sizeBytes": 1310720000,
-      "captureDate": "2023-01-04T21:00:00.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "Bat Poop Crazy",
-      "description": "The team ventures into a vast cave system to prevent a bat population from destroying the North American ecosystem before Halloween. Then, the team helps stage pictures of Halloweens from Walter's past for his upcoming immigration inspection. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3594000,
-      "sizeBytes": 1216348160,
-      "captureDate": "2023-01-04T19:59:58.000Z"
-    },
-    {
-      "title": "Scorpion",
-      "episodeTitle": "Plight at the Museum",
-      "description": "The team must stop thieves who robbed a rare-gem exhibit at a museum in order to extract materials needed to enrich a nuclear bomb. Copyright Rovi, Inc.",
-      "sourceChannel": "297",
-      "sourceStation": "WLNEDT3",
-      "rating": "TV-14",
-      "isSuggestion": true,
-      "durationMs": 3598000,
-      "sizeBytes": 1174405120,
-      "captureDate": "2023-01-04T18:59:58.000Z"
     },
     {
       "title": "Brooklyn Nine-Nine",
