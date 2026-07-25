@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-25T15:00:26.865Z",
-  "sourceUpdatedAt": "2026-07-25T15:00:26.797Z",
-  "sourceCacheUpdatedAt": "2026-07-25T15:00:26.797Z",
+  "updatedAt": "2026-07-25T15:30:21.861Z",
+  "sourceUpdatedAt": "2026-07-25T15:30:21.793Z",
+  "sourceCacheUpdatedAt": "2026-07-25T15:30:21.793Z",
   "source": "Local TiVo API",
   "totalItems": 1536,
   "loadedItems": 1536,
   "cached": false,
   "storage": {
-    "usedBytes": 3706852474880,
+    "usedBytes": 3707670364160,
     "totalBytes": 6597069766656,
-    "availableBytes": 2890217291776,
+    "availableBytes": 2889399402496,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "DISNEYHD-E",
       "rating": "TV-Y",
       "isSuggestion": false,
-      "durationMs": 0,
-      "sizeBytes": 304087040,
+      "durationMs": 1552000,
+      "sizeBytes": 1121976320,
       "captureDate": "2026-07-25T14:59:58.000Z"
     },
     {

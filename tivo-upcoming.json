@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-25T15:00:26.866Z",
-  "sourceUpdatedAt": "2026-07-25T15:00:02.416Z",
-  "sourceCacheUpdatedAt": "2026-07-25T15:00:02.416Z",
+  "updatedAt": "2026-07-25T15:30:21.862Z",
+  "sourceUpdatedAt": "2026-07-25T15:30:02.050Z",
+  "sourceCacheUpdatedAt": "2026-07-25T15:30:02.050Z",
   "source": "Local TiVo API",
   "totalItems": 13,
   "loadedItems": 13,
@@ -16,7 +16,7 @@
       "sourceStation": "DISNEYHD-E",
       "rating": "",
       "state": "inProgress",
-      "durationMs": 0,
+      "durationMs": 1727000,
       "scheduledStartTime": "2026-07-25T15:00:00.000Z",
       "scheduledEndTime": "2026-07-25T15:33:00.000Z",
       "isInProgress": true
