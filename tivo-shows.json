@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-23T02:00:22.197Z",
-  "sourceUpdatedAt": "2026-07-23T02:00:22.117Z",
-  "sourceCacheUpdatedAt": "2026-07-23T02:00:22.117Z",
+  "updatedAt": "2026-07-25T15:00:26.865Z",
+  "sourceUpdatedAt": "2026-07-25T15:00:26.797Z",
+  "sourceCacheUpdatedAt": "2026-07-25T15:00:26.797Z",
   "source": "Local TiVo API",
-  "totalItems": 1535,
-  "loadedItems": 1535,
+  "totalItems": 1536,
+  "loadedItems": 1536,
   "cached": false,
   "storage": {
-    "usedBytes": 3708068823040,
+    "usedBytes": 3706852474880,
     "totalBytes": 6597069766656,
-    "availableBytes": 2889000943616,
+    "availableBytes": 2890217291776,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "Queen of the Dreadzone",
+      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero. Copyright Rovi, Inc.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "TV-Y",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 304087040,
+      "captureDate": "2026-07-25T14:59:58.000Z"
+    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "The Chained Titans",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-14T00:59:58.000Z"
     },
     {
-      "title": "Tracker",
-      "episodeTitle": "Struck",
-      "description": "A pregnant wife reaches out to Colter to find her missing husband. Copyright Rovi, Inc.",
-      "sourceChannel": "1004",
-      "sourceStation": "WBZDT",
+      "title": "FBI",
+      "episodeTitle": "Shahadah",
+      "description": "When the body of a VA psychiatrist is found tortured and deceased under a nearby overpass, the team is led to a suspicious religious leader with a substantial online presence. Meanwhile, OA builds a connection with Special Agent Zara Ushruf (Pardis Saremi), who assists on the case. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 5401000,
-      "sizeBytes": 4519362560,
-      "captureDate": "2026-04-13T00:59:58.000Z"
+      "durationMs": 3591000,
+      "sizeBytes": 2998927360,
+      "captureDate": "2026-04-14T00:59:58.000Z"
     },
     {
       "title": "Tracker",

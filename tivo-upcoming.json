@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-25T06:30:19.699Z",
-  "sourceUpdatedAt": "2026-07-25T06:30:01.662Z",
-  "sourceCacheUpdatedAt": "2026-07-25T06:30:01.662Z",
+  "updatedAt": "2026-07-25T15:00:26.866Z",
+  "sourceUpdatedAt": "2026-07-25T15:00:02.416Z",
+  "sourceCacheUpdatedAt": "2026-07-25T15:00:02.416Z",
   "source": "Local TiVo API",
   "totalItems": 13,
   "loadedItems": 13,
@@ -15,11 +15,11 @@
       "sourceChannel": "824",
       "sourceStation": "DISNEYHD-E",
       "rating": "",
-      "state": "scheduled",
-      "durationMs": 1980000,
+      "state": "inProgress",
+      "durationMs": 0,
       "scheduledStartTime": "2026-07-25T15:00:00.000Z",
       "scheduledEndTime": "2026-07-25T15:33:00.000Z",
-      "isInProgress": false
+      "isInProgress": true
     },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
