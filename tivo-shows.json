@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-25T16:00:20.099Z",
-  "sourceUpdatedAt": "2026-07-25T16:00:20.031Z",
-  "sourceCacheUpdatedAt": "2026-07-25T16:00:20.031Z",
+  "updatedAt": "2026-07-29T02:00:21.693Z",
+  "sourceUpdatedAt": "2026-07-29T02:00:21.637Z",
+  "sourceCacheUpdatedAt": "2026-07-29T02:00:21.637Z",
   "source": "Local TiVo API",
   "totalItems": 1536,
   "loadedItems": 1536,
@@ -1553,7 +1553,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "14",
       "sourceStation": "WSBK",
       "rating": "TV-14",
@@ -1565,7 +1565,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1038",
       "sourceStation": "WSBKDT",
       "rating": "TV-14",
@@ -1577,7 +1577,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "14",
       "sourceStation": "WSBK",
       "rating": "TV-14",
@@ -1589,7 +1589,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1038",
       "sourceStation": "WSBKDT",
       "rating": "TV-14",
@@ -1601,7 +1601,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -1613,7 +1613,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -1673,7 +1673,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1038",
       "sourceStation": "WSBKDT",
       "rating": "TV-14",
@@ -1685,7 +1685,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "14",
       "sourceStation": "WSBK",
       "rating": "TV-14",
@@ -1697,7 +1697,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "14",
       "sourceStation": "WSBK",
       "rating": "TV-14",
@@ -1709,7 +1709,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1038",
       "sourceStation": "WSBKDT",
       "rating": "TV-14",
@@ -1721,7 +1721,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -1733,7 +1733,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -2945,7 +2945,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -2957,7 +2957,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -2969,7 +2969,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -2981,7 +2981,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -3005,7 +3005,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -3017,7 +3017,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -3029,7 +3029,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
@@ -3041,7 +3041,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "1006",
       "sourceStation": "WLNEDT",
       "rating": "TV-14",
@@ -3065,7 +3065,7 @@
     {
       "title": "The Rookie",
       "episodeTitle": "",
-      "description": "The trials and tribulations of a 40-year-old LAPD rookie. Copyright Rovi, Inc.",
+      "description": "",
       "sourceChannel": "6",
       "sourceStation": "WLNE",
       "rating": "TV-14",
