@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-29T02:00:21.693Z",
-  "sourceUpdatedAt": "2026-07-29T02:00:21.637Z",
-  "sourceCacheUpdatedAt": "2026-07-29T02:00:21.637Z",
+  "updatedAt": "2026-08-01T15:00:20.078Z",
+  "sourceUpdatedAt": "2026-08-01T15:00:20.020Z",
+  "sourceCacheUpdatedAt": "2026-08-01T15:00:20.020Z",
   "source": "Local TiVo API",
-  "totalItems": 1536,
-  "loadedItems": 1536,
+  "totalItems": 1537,
+  "loadedItems": 1537,
   "cached": false,
   "storage": {
-    "usedBytes": 3707544535040,
+    "usedBytes": 3708047851520,
     "totalBytes": 6597069766656,
-    "availableBytes": 2889525231616,
+    "availableBytes": 2889021915136,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "episodeTitle": "Secret Protocol",
+      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero. Copyright Rovi, Inc.",
+      "sourceChannel": "824",
+      "sourceStation": "DISNEYHD-E",
+      "rating": "TV-Y",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 304087040,
+      "captureDate": "2026-08-01T14:59:58.000Z"
+    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Queen of the Dreadzone",
@@ -603,16 +615,16 @@
       "captureDate": "2026-04-14T01:59:58.000Z"
     },
     {
-      "title": "FBI",
-      "episodeTitle": "Shahadah",
-      "description": "When the body of a VA psychiatrist is found tortured and deceased under a nearby overpass, the team is led to a suspicious religious leader with a substantial online presence. Meanwhile, OA builds a connection with Special Agent Zara Ushruf (Pardis Saremi), who assists on the case. Copyright Rovi, Inc.",
-      "sourceChannel": "1012",
-      "sourceStation": "WPRIDT",
+      "title": "The Rookie",
+      "episodeTitle": "Survive The Streets",
+      "description": "The team works together after Nolan and Celina discover a possible suicide that spirals into conspiracy. Copyright Rovi, Inc.",
+      "sourceChannel": "1005",
+      "sourceStation": "WCVBDT",
       "rating": "TV-14",
       "isSuggestion": false,
-      "durationMs": 3591000,
-      "sizeBytes": 2998927360,
-      "captureDate": "2026-04-14T00:59:58.000Z"
+      "durationMs": 3779000,
+      "sizeBytes": 3198156800,
+      "captureDate": "2026-04-14T01:59:58.000Z"
     },
     {
       "title": "FBI",
