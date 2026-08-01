@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-01T15:30:22.417Z",
-  "sourceUpdatedAt": "2026-08-01T15:30:01.980Z",
-  "sourceCacheUpdatedAt": "2026-08-01T15:30:01.980Z",
+  "updatedAt": "2026-08-01T16:00:23.230Z",
+  "sourceUpdatedAt": "2026-08-01T16:00:02.176Z",
+  "sourceCacheUpdatedAt": "2026-08-01T16:00:02.176Z",
   "source": "Local TiVo API",
-  "totalItems": 4,
-  "loadedItems": 4,
+  "totalItems": 3,
+  "loadedItems": 3,
   "cached": false,
   "shows": [
-    {
-      "title": "Miraculous: Tales of Ladybug and Cat Noir",
-      "episodeTitle": "Secret Protocol",
-      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero.",
-      "sourceChannel": "824",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 1730000,
-      "scheduledStartTime": "2026-08-01T15:00:00.000Z",
-      "scheduledEndTime": "2026-08-01T15:33:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Nemesis",
