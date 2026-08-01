@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-07-30T10:30:22.947Z",
-  "sourceUpdatedAt": "2026-07-30T10:30:02.350Z",
-  "sourceCacheUpdatedAt": "2026-07-30T10:30:02.350Z",
+  "updatedAt": "2026-08-01T06:30:22.344Z",
+  "sourceUpdatedAt": "2026-08-01T06:30:01.926Z",
+  "sourceCacheUpdatedAt": "2026-08-01T06:30:01.926Z",
   "source": "Local TiVo API",
-  "totalItems": 3,
-  "loadedItems": 3,
+  "totalItems": 4,
+  "loadedItems": 4,
   "cached": false,
   "shows": [
     {
@@ -32,6 +32,19 @@
       "durationMs": 1980000,
       "scheduledStartTime": "2026-08-08T15:00:00.000Z",
       "scheduledEndTime": "2026-08-08T15:33:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "",
+      "sourceChannel": "1173",
+      "sourceStation": "WJARDT2",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-08T16:00:00.000Z",
+      "scheduledEndTime": "2026-08-08T17:03:00.000Z",
       "isInProgress": false
     },
     {
