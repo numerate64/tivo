@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-02T10:00:22.199Z",
-  "sourceUpdatedAt": "2026-08-02T10:00:02.442Z",
-  "sourceCacheUpdatedAt": "2026-08-02T10:00:02.442Z",
+  "updatedAt": "2026-08-04T10:00:27.114Z",
+  "sourceUpdatedAt": "2026-08-04T10:00:02.056Z",
+  "sourceCacheUpdatedAt": "2026-08-04T10:00:02.056Z",
   "source": "Local TiVo API",
-  "totalItems": 8,
-  "loadedItems": 8,
+  "totalItems": 10,
+  "loadedItems": 10,
   "cached": false,
   "shows": [
     {
@@ -110,6 +110,32 @@
       "durationMs": 3600000,
       "scheduledStartTime": "2026-08-10T04:00:00.000Z",
       "scheduledEndTime": "2026-08-10T05:00:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "",
+      "sourceChannel": "1173",
+      "sourceStation": "WJARDT2",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-16T04:05:00.000Z",
+      "scheduledEndTime": "2026-08-16T05:08:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "NCIS: Hawai'i",
+      "episodeTitle": "",
+      "description": "The world's most successful television series continues on the seductive shores of the Aloha State with NCIS: HAWAI ' I, where the first female Special Agent in Charge of NCIS Pearl Harbor, Jane Tennant, has thrived and risen through the ranks by equal parts confidence and strategy in a system that has pushed back on her every step of the way.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3600000,
+      "scheduledStartTime": "2026-08-17T04:00:00.000Z",
+      "scheduledEndTime": "2026-08-17T05:00:00.000Z",
       "isInProgress": false
     }
   ]
