@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-04T21:00:17.564Z",
-  "sourceUpdatedAt": "2026-08-04T21:00:02.430Z",
-  "sourceCacheUpdatedAt": "2026-08-04T21:00:02.430Z",
+  "updatedAt": "2026-08-05T03:30:19.930Z",
+  "sourceUpdatedAt": "2026-08-05T03:30:02.362Z",
+  "sourceCacheUpdatedAt": "2026-08-05T03:30:02.362Z",
   "source": "Local TiVo API",
-  "totalItems": 15,
-  "loadedItems": 15,
+  "totalItems": 14,
+  "loadedItems": 14,
   "cached": false,
   "shows": [
     {
@@ -157,19 +157,6 @@
       "description": "",
       "sourceChannel": "14",
       "sourceStation": "WSBK",
-      "rating": "",
-      "state": "scheduled",
-      "durationMs": 3780000,
-      "scheduledStartTime": "2026-08-16T23:00:00.000Z",
-      "scheduledEndTime": "2026-08-17T00:03:00.000Z",
-      "isInProgress": false
-    },
-    {
-      "title": "The Rookie",
-      "episodeTitle": "",
-      "description": "",
-      "sourceChannel": "1038",
-      "sourceStation": "WSBKDT",
       "rating": "",
       "state": "scheduled",
       "durationMs": 3780000,
