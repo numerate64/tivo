@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-08T15:30:22.910Z",
-  "sourceUpdatedAt": "2026-08-08T15:30:02.482Z",
-  "sourceCacheUpdatedAt": "2026-08-08T15:30:02.482Z",
+  "updatedAt": "2026-08-08T16:00:17.040Z",
+  "sourceUpdatedAt": "2026-08-08T16:00:01.828Z",
+  "sourceCacheUpdatedAt": "2026-08-08T16:00:01.828Z",
   "source": "Local TiVo API",
-  "totalItems": 23,
-  "loadedItems": 23,
+  "totalItems": 22,
+  "loadedItems": 22,
   "cached": false,
   "shows": [
-    {
-      "title": "Miraculous: Tales of Ladybug and Cat Noir",
-      "episodeTitle": "Nemesis",
-      "description": "When Paris is in peril, Marinette becomes Ladybug. Little does she know, her school crush Adrien is actually Cat Noir, another city-saving superhero.",
-      "sourceChannel": "824",
-      "sourceStation": "DISNEYHD-E",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 1739000,
-      "scheduledStartTime": "2026-08-08T15:00:00.000Z",
-      "scheduledEndTime": "2026-08-08T15:33:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "The Rookie",
       "episodeTitle": "",
