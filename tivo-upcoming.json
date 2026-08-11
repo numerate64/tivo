@@ -1,11 +1,25 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-08T18:30:21.833Z",
-  "sourceUpdatedAt": "2026-08-08T18:30:01.540Z",
-  "sourceCacheUpdatedAt": "2026-08-08T18:30:01.540Z",
+  "updatedAt": "2026-08-11T05:30:23.235Z",
+  "sourceUpdatedAt": "2026-08-11T05:30:02.281Z",
+  "sourceCacheUpdatedAt": "2026-08-11T05:30:02.281Z",
   "source": "Local TiVo API",
-  "totalItems": 0,
-  "loadedItems": 0,
+  "totalItems": 1,
+  "loadedItems": 1,
   "cached": false,
-  "shows": []
+  "shows": [
+    {
+      "title": "Tracker",
+      "episodeTitle": "",
+      "description": "Lone-wolf survivalist Colter Shaw roams the country as a reward seeker, using his tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+      "sourceChannel": "1004",
+      "sourceStation": "WBZDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 5400000,
+      "scheduledStartTime": "2026-08-24T01:00:00.000Z",
+      "scheduledEndTime": "2026-08-24T02:30:00.000Z",
+      "isInProgress": false
+    }
+  ]
 }
