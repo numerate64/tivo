@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-18T21:30:17.773Z",
-  "sourceUpdatedAt": "2026-08-18T21:30:02.356Z",
-  "sourceCacheUpdatedAt": "2026-08-18T21:30:02.356Z",
+  "updatedAt": "2026-08-19T09:30:18.833Z",
+  "sourceUpdatedAt": "2026-08-19T09:30:01.852Z",
+  "sourceCacheUpdatedAt": "2026-08-19T09:30:01.852Z",
   "source": "Local TiVo API",
-  "totalItems": 36,
-  "loadedItems": 36,
+  "totalItems": 41,
+  "loadedItems": 41,
   "cached": false,
   "shows": [
     {
@@ -409,6 +409,71 @@
       "durationMs": 3780000,
       "scheduledStartTime": "2026-08-26T06:00:00.000Z",
       "scheduledEndTime": "2026-08-26T07:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "235",
+      "sourceStation": "UP",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-26T06:00:00.000Z",
+      "scheduledEndTime": "2026-08-26T07:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "235",
+      "sourceStation": "UP",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-26T23:00:00.000Z",
+      "scheduledEndTime": "2026-08-27T00:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1457",
+      "sourceStation": "UPHD",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-26T23:00:00.000Z",
+      "scheduledEndTime": "2026-08-27T00:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1457",
+      "sourceStation": "UPHD",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-26T23:00:00.000Z",
+      "scheduledEndTime": "2026-08-27T00:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1457",
+      "sourceStation": "UPHD",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-08-27T00:00:00.000Z",
+      "scheduledEndTime": "2026-08-27T01:03:00.000Z",
       "isInProgress": false
     },
     {
