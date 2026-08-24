@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-11T10:00:20.615Z",
-  "sourceUpdatedAt": "2026-08-11T10:00:20.559Z",
-  "sourceCacheUpdatedAt": "2026-08-11T10:00:20.559Z",
+  "updatedAt": "2026-08-24T11:00:17.847Z",
+  "sourceUpdatedAt": "2026-08-24T11:00:17.787Z",
+  "sourceCacheUpdatedAt": "2026-08-24T11:00:17.787Z",
   "source": "Local TiVo API",
-  "totalItems": 1538,
-  "loadedItems": 1538,
+  "totalItems": 1539,
+  "loadedItems": 1539,
   "cached": false,
   "storage": {
-    "usedBytes": 3708309995520,
+    "usedBytes": 3710145003520,
     "totalBytes": 6597069766656,
-    "availableBytes": 2888759771136,
+    "availableBytes": 2886924763136,
     "knownTotal": true
   },
   "shows": [
+    {
+      "title": "The Martian",
+      "episodeTitle": "",
+      "description": "In this thrilling and inspirational sci-fi drama, a lone astronaut is left behind on the hostile surface of Mars, and must use his ingenuity to create a habitat where he can survive. Meanwhile, his crewmates and a team of scientists work to rescue him, in defiance of NASA protocol. Copyright Rovi, Inc.",
+      "sourceChannel": "1409",
+      "sourceStation": "FXHD-E",
+      "rating": "TV-MA",
+      "isSuggestion": false,
+      "durationMs": 0,
+      "sizeBytes": 608174080,
+      "captureDate": "2026-08-24T10:54:58.000Z"
+    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "Nemesis",
@@ -603,15 +615,15 @@
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
-      "title": "Renovation Aloha",
-      "episodeTitle": "Bones on the Big Island",
-      "description": "With home prices soaring, the Kalamas head to Hawaii's Big Island to prove affordable island living still exists. But when Kamohai buys land near an active lava zone, they're forced into a high-risk build where paradise may come at a dangerous price. Copyright Rovi, Inc.",
-      "sourceChannel": "1492",
-      "sourceStation": "HGTVHD-E",
-      "rating": "TV-G",
+      "title": "NCIS",
+      "episodeTitle": "S.O.S.",
+      "description": "A Navy lieutenant resurfaces a year after her plane vanished with a story that doesn't quite add up. As the team peels back the mystery of a crash that was anything but accidental, every answer sparks a new twist. Copyright Rovi, Inc.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "TV-PG",
       "isSuggestion": false,
-      "durationMs": 3599000,
-      "sizeBytes": 1772093440,
+      "durationMs": 3592000,
+      "sizeBytes": 2998927360,
       "captureDate": "2026-04-14T23:59:58.000Z"
     },
     {
