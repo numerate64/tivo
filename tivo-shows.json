@@ -1,16 +1,16 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-24T11:30:17.141Z",
-  "sourceUpdatedAt": "2026-08-24T11:30:17.078Z",
-  "sourceCacheUpdatedAt": "2026-08-24T11:30:17.078Z",
+  "updatedAt": "2026-08-24T12:00:17.307Z",
+  "sourceUpdatedAt": "2026-08-24T12:00:17.249Z",
+  "sourceCacheUpdatedAt": "2026-08-24T12:00:17.249Z",
   "source": "Local TiVo API",
   "totalItems": 1539,
   "loadedItems": 1539,
   "cached": false,
   "storage": {
-    "usedBytes": 3711120179200,
+    "usedBytes": 3712063897600,
     "totalBytes": 6597069766656,
-    "availableBytes": 2885949587456,
+    "availableBytes": 2885005869056,
     "knownTotal": true
   },
   "shows": [
@@ -22,8 +22,8 @@
       "sourceStation": "FXHD-E",
       "rating": "TV-MA",
       "isSuggestion": false,
-      "durationMs": 1901000,
-      "sizeBytes": 1583349760,
+      "durationMs": 3632000,
+      "sizeBytes": 2527068160,
       "captureDate": "2026-08-24T10:54:58.000Z"
     },
     {
