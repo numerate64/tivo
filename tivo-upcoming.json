@@ -1,26 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-24T14:00:17.833Z",
-  "sourceUpdatedAt": "2026-08-24T14:00:02.354Z",
-  "sourceCacheUpdatedAt": "2026-08-24T14:00:02.354Z",
+  "updatedAt": "2026-08-24T14:30:18.707Z",
+  "sourceUpdatedAt": "2026-08-24T14:30:02.235Z",
+  "sourceCacheUpdatedAt": "2026-08-24T14:30:02.235Z",
   "source": "Local TiVo API",
-  "totalItems": 11,
-  "loadedItems": 11,
+  "totalItems": 10,
+  "loadedItems": 10,
   "cached": false,
   "shows": [
-    {
-      "title": "The Martian",
-      "episodeTitle": "",
-      "description": "In this thrilling and inspirational sci-fi drama, a lone astronaut is left behind on the hostile surface of Mars, and must use his ingenuity to create a habitat where he can survive. Meanwhile, his crewmates and a team of scientists work to rescue him, in defiance of NASA protocol.",
-      "sourceChannel": "1409",
-      "sourceStation": "FXHD-E",
-      "rating": "",
-      "state": "inProgress",
-      "durationMs": 11063000,
-      "scheduledStartTime": "2026-08-24T10:55:00.000Z",
-      "scheduledEndTime": "2026-08-24T14:05:00.000Z",
-      "isInProgress": true
-    },
     {
       "title": "Miraculous: Tales of Ladybug and Cat Noir",
       "episodeTitle": "",
