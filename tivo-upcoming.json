@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-24T12:30:18.673Z",
-  "sourceUpdatedAt": "2026-08-24T12:30:02.305Z",
-  "sourceCacheUpdatedAt": "2026-08-24T12:30:02.305Z",
+  "updatedAt": "2026-08-24T13:00:20.979Z",
+  "sourceUpdatedAt": "2026-08-24T13:00:01.728Z",
+  "sourceCacheUpdatedAt": "2026-08-24T13:00:01.728Z",
   "source": "Local TiVo API",
   "totalItems": 11,
   "loadedItems": 11,
@@ -16,7 +16,7 @@
       "sourceStation": "FXHD-E",
       "rating": "",
       "state": "inProgress",
-      "durationMs": 5533000,
+      "durationMs": 7430000,
       "scheduledStartTime": "2026-08-24T10:55:00.000Z",
       "scheduledEndTime": "2026-08-24T14:05:00.000Z",
       "isInProgress": true
