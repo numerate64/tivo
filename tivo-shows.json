@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-24T14:30:18.707Z",
-  "sourceUpdatedAt": "2026-08-24T14:30:18.637Z",
-  "sourceCacheUpdatedAt": "2026-08-24T14:30:18.637Z",
+  "updatedAt": "2026-08-29T02:30:18.606Z",
+  "sourceUpdatedAt": "2026-08-29T02:30:18.549Z",
+  "sourceCacheUpdatedAt": "2026-08-29T02:30:18.549Z",
   "source": "Local TiVo API",
   "totalItems": 1539,
   "loadedItems": 1539,
@@ -6723,7 +6723,7 @@
       "captureDate": "2022-11-06T23:59:58.000Z"
     },
     {
-      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
       "episodeTitle": "Jubilation",
       "description": "Monarch entrusts an akumatized villain with the power of Jubilation, which shows people their deepest desires. Will Ladybug and Cat Noir escape that dangerous power? Copyright Rovi, Inc.",
       "sourceChannel": "824",
@@ -6795,7 +6795,7 @@
       "captureDate": "2022-11-01T23:59:58.000Z"
     },
     {
-      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "title": "Miraculous: Tales of Ladybug & Cat Noir",
       "episodeTitle": "Multiplication",
       "description": "As the days go by, not a single akumatized villain shows up to torment Paris. Could Monarch possibly have given up? Copyright Rovi, Inc.",
       "sourceChannel": "824",
@@ -15471,7 +15471,7 @@
       "captureDate": "2022-08-04T11:29:58.000Z"
     },
     {
-      "title": "Below Deck Méditerranée",
+      "title": "Below Deck Mediterranean",
       "episodeTitle": "Entree-Vous",
       "description": "A dating anniversary is celebrated by charter guests and the crew must provide a romantic trip. Also, Bobby sharpens focus on Julia; Tiffany and Bryan make waves in the hot tub; and the crew springs into action to help save a sinking nearby vessel. Copyright Rovi, Inc.",
       "sourceChannel": "57",
