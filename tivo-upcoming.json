@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-08-27T13:00:23.836Z",
-  "sourceUpdatedAt": "2026-08-27T13:00:02.386Z",
-  "sourceCacheUpdatedAt": "2026-08-27T13:00:02.386Z",
+  "updatedAt": "2026-09-01T05:30:19.090Z",
+  "sourceUpdatedAt": "2026-09-01T05:30:01.941Z",
+  "sourceCacheUpdatedAt": "2026-09-01T05:30:01.941Z",
   "source": "Local TiVo API",
-  "totalItems": 1,
-  "loadedItems": 1,
+  "totalItems": 2,
+  "loadedItems": 2,
   "cached": false,
   "shows": [
     {
@@ -19,6 +19,19 @@
       "durationMs": 3600000,
       "scheduledStartTime": "2026-09-07T04:00:00.000Z",
       "scheduledEndTime": "2026-09-07T05:00:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "NCIS: Hawai'i",
+      "episodeTitle": "",
+      "description": "The world's most successful television series continues on the seductive shores of the Aloha State with NCIS: HAWAI ' I, where the first female Special Agent in Charge of NCIS Pearl Harbor, Jane Tennant, has thrived and risen through the ranks by equal parts confidence and strategy in a system that has pushed back on her every step of the way.",
+      "sourceChannel": "1012",
+      "sourceStation": "WPRIDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3600000,
+      "scheduledStartTime": "2026-09-14T04:00:00.000Z",
+      "scheduledEndTime": "2026-09-14T05:00:00.000Z",
       "isInProgress": false
     }
   ]
