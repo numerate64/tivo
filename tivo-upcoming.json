@@ -1,11 +1,90 @@
 {
   "ok": true,
-  "updatedAt": "2026-09-04T07:00:18.197Z",
-  "sourceUpdatedAt": "2026-09-04T07:00:01.695Z",
-  "sourceCacheUpdatedAt": "2026-09-04T07:00:01.695Z",
+  "updatedAt": "2026-09-05T21:00:18.002Z",
+  "sourceUpdatedAt": "2026-09-05T21:00:01.862Z",
+  "sourceCacheUpdatedAt": "2026-09-05T21:00:01.862Z",
   "source": "Local TiVo API",
-  "totalItems": 0,
-  "loadedItems": 0,
+  "totalItems": 6,
+  "loadedItems": 6,
   "cached": false,
-  "shows": []
+  "shows": [
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "14",
+      "sourceStation": "WSBK",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T22:00:00.000Z",
+      "scheduledEndTime": "2026-09-13T23:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1038",
+      "sourceStation": "WSBKDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T22:00:00.000Z",
+      "scheduledEndTime": "2026-09-13T23:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1038",
+      "sourceStation": "WSBKDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T22:00:00.000Z",
+      "scheduledEndTime": "2026-09-13T23:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "14",
+      "sourceStation": "WSBK",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T23:00:00.000Z",
+      "scheduledEndTime": "2026-09-14T00:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1038",
+      "sourceStation": "WSBKDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T23:00:00.000Z",
+      "scheduledEndTime": "2026-09-14T00:03:00.000Z",
+      "isInProgress": false
+    },
+    {
+      "title": "The Rookie",
+      "episodeTitle": "",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "sourceChannel": "1038",
+      "sourceStation": "WSBKDT",
+      "rating": "",
+      "state": "scheduled",
+      "durationMs": 3780000,
+      "scheduledStartTime": "2026-09-13T23:00:00.000Z",
+      "scheduledEndTime": "2026-09-14T00:03:00.000Z",
+      "isInProgress": false
+    }
+  ]
 }
